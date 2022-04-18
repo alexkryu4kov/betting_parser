@@ -167,7 +167,7 @@ class Parser:
                 season=season,
                 country=country,
                 league=league,
-                league_level=2,
+                league_level=3,
                 home_team=team1,
                 away_team=team2,
                 home_win_rate=home,
