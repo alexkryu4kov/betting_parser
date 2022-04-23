@@ -6,7 +6,7 @@ from matchers.league_matcher import league_matcher
 
 england = pd.read_csv('../england-league-two_v1.1.csv')
 
-with open("../teams4.json") as f:
+with open("../teams.json") as f:
     teams = json.load(f)
 
 

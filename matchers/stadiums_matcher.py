@@ -1,17 +1,5 @@
-import json
-import pandas as pd
 from copy import deepcopy
 
-
-with open("../stadiums4.json") as f:
-    stadiums3 = json.load(f)
-
-england = pd.read_csv('../england-league-two_v1.3.csv')
-
-new_stadiums = []
-
-homes_team = set(list(england['home_team']))
-stadiums_team = set(s['name'] for s in stadiums3)
 
 matches = {
     'Watford': 'Watford FC',
@@ -44,17 +32,21 @@ matches = {
 }
 
 
-for stadium in stadiums3:
-    if stadium['name'] not in matches:
-        new_stadiums.append(stadium)
-    else:
-        new_stadium = deepcopy(stadium)
-        new_stadium['name'] = matches[stadium['name']]
-        new_stadiums.append(new_stadium)
+class StadiumsMatcher:
 
-for home_team in homes_team:
-    if home_team not in [stadium['name'] for stadium in new_stadiums]:
-        print(home_team)
+    new_stadiums = []
 
-with open('../new_stadiums4.json', 'w') as f:
-    json.dump(new_stadiums, f)
+    def match_stadiums(self, stadiums):
+
+        for stadium in stadiums:
+            if stadium.name not in matches:
+                self.new_stadiums.append(stadium)
+            else:
+                new_stadium = deepcopy(stadium)
+                new_stadium.name = matches[stadium.name]
+                self.new_stadiums.append(new_stadium)
+
+    def check_stadiums_match(self, teams):
+        for team in teams:
+            if team not in [stadium.name for stadium in self.new_stadiums]:
+                print(team)
