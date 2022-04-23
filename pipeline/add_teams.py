@@ -2,38 +2,12 @@ import json
 
 import pandas as pd
 
+from matchers.league_matcher import league_matcher
+
 england = pd.read_csv('../england-league-two_v1.1.csv')
 
 with open("../teams4.json") as f:
     teams = json.load(f)
-
-
-league_matcher = {
-    'premier-league-2016-2017': 2016,
-    'premier-league-2017-2018': 2017,
-    'premier-league-2018-2019': 2018,
-    'premier-league-2019-2020': 2019,
-    'premier-league-2020-2021': 2020,
-    'premier-league': 2021,
-    'championship-2016-2017': 2016,
-    'championship-2017-2018': 2017,
-    'championship-2018-2019': 2018,
-    'championship-2019-2020': 2019,
-    'championship-2020-2021': 2020,
-    'championship': 2021,
-    'league-one-2016-2017': 2016,
-    'league-one-2017-2018': 2017,
-    'league-one-2018-2019': 2018,
-    'league-one-2019-2020': 2019,
-    'league-one-2020-2021': 2020,
-    'league-one': 2021,
-    'league-two-2016-2017': 2016,
-    'league-two-2017-2018': 2017,
-    'league-two-2018-2019': 2018,
-    'league-two-2019-2020': 2019,
-    'league-two-2020-2021': 2020,
-    'league-two': 2021,
-}
 
 
 def extract_market_value(market_value):

@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-managers = pd.read_csv('../managers.csv')
+managers = pd.read_csv('../data/managers.csv')
 england = pd.read_csv('../england-league-two.csv')
 
 managers_team = set(list(managers['Team']))

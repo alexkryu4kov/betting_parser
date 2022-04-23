@@ -3,7 +3,7 @@ from dateutil import parser
 from datetime import datetime
 from dataclasses import dataclass
 
-managers = pd.read_csv('../managers.csv')
+managers = pd.read_csv('../data/managers.csv')
 england = pd.read_csv('../all_england_v2.7.csv')
 
 

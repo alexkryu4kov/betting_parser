@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Chelsea FC",
+    "season": 2016,
+    "age": "24.8",
+    "squad": "49",
+    "foreigners": "41",
+    "e_market": "\u20ac14.01m",
+    "total_market": "\u20ac686.70m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2016,
+    "age": "25.7",
+    "squad": "44",
+    "foreigners": "36",
+    "e_market": "\u20ac13.79m",
+    "total_market": "\u20ac606.70m"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2016,
+    "age": "23.7",
+    "squad": "38",
+    "foreigners": "20",
+    "e_market": "\u20ac14.31m",
+    "total_market": "\u20ac543.65m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2016,
+    "age": "24.7",
+    "squad": "42",
+    "foreigners": "26",
+    "e_market": "\u20ac12.90m",
+    "total_market": "\u20ac542.00m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2016,
+    "age": "24.4",
+    "squad": "42",
+    "foreigners": "25",
+    "e_market": "\u20ac12.65m",
+    "total_market": "\u20ac531.45m"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2016,
+    "age": "24.4",
+    "squad": "38",
+    "foreigners": "24",
+    "e_market": "\u20ac11.20m",
+    "total_market": "\u20ac425.65m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2016,
+    "age": "25.9",
+    "squad": "39",
+    "foreigners": "25",
+    "e_market": "\u20ac7.98m",
+    "total_market": "\u20ac311.25m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2016,
+    "age": "24.7",
+    "squad": "44",
+    "foreigners": "28",
+    "e_market": "\u20ac6.21m",
+    "total_market": "\u20ac273.05m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2016,
+    "age": "25.3",
+    "squad": "36",
+    "foreigners": "19",
+    "e_market": "\u20ac7.33m",
+    "total_market": "\u20ac263.75m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2016,
+    "age": "26.1",
+    "squad": "45",
+    "foreigners": "26",
+    "e_market": "\u20ac5.08m",
+    "total_market": "\u20ac228.43m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "31",
+    "foreigners": "21",
+    "e_market": "\u20ac7.05m",
+    "total_market": "\u20ac218.65m"
+  },
+  {
+    "name": "Stoke City",
+    "season": 2016,
+    "age": "27.1",
+    "squad": "34",
+    "foreigners": "27",
+    "e_market": "\u20ac5.47m",
+    "total_market": "\u20ac186.00m"
+  },
+  {
+    "name": "Watford FC",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "46",
+    "foreigners": "36",
+    "e_market": "\u20ac3.82m",
+    "total_market": "\u20ac175.65m"
+  },
+  {
+    "name": "Swansea City",
+    "season": 2016,
+    "age": "26.9",
+    "squad": "37",
+    "foreigners": "28",
+    "e_market": "\u20ac4.25m",
+    "total_market": "\u20ac157.10m"
+  },
+  {
+    "name": "Hull City",
+    "season": 2016,
+    "age": "26.0",
+    "squad": "42",
+    "foreigners": "23",
+    "e_market": "\u20ac3.23m",
+    "total_market": "\u20ac135.85m"
+  },
+  {
+    "name": "Sunderland AFC",
+    "season": 2016,
+    "age": "25.3",
+    "squad": "42",
+    "foreigners": "27",
+    "e_market": "\u20ac3.14m",
+    "total_market": "\u20ac132.00m"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "season": 2016,
+    "age": "24.4",
+    "squad": "41",
+    "foreigners": "16",
+    "e_market": "\u20ac3.21m",
+    "total_market": "\u20ac131.60m"
+  },
+  {
+    "name": "Middlesbrough FC",
+    "season": 2016,
+    "age": "27.3",
+    "squad": "35",
+    "foreigners": "21",
+    "e_market": "\u20ac3.68m",
+    "total_market": "\u20ac128.80m"
+  },
+  {
+    "name": "West Bromwich Albion",
+    "season": 2016,
+    "age": "27.3",
+    "squad": "30",
+    "foreigners": "18",
+    "e_market": "\u20ac4.11m",
+    "total_market": "\u20ac123.20m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "36",
+    "foreigners": "15",
+    "e_market": "\u20ac2.98m",
+    "total_market": "\u20ac107.18m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2017,
+    "age": "25.1",
+    "squad": "32",
+    "foreigners": "21",
+    "e_market": "\u20ac31.53m",
+    "total_market": "\u20ac1.01bn"
+  },
+  {
+    "name": "Chelsea FC",
+    "season": 2017,
+    "age": "24.7",
+    "squad": "46",
+    "foreigners": "33",
+    "e_market": "\u20ac19.22m",
+    "total_market": "\u20ac884.25m"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2017,
+    "age": "24.9",
+    "squad": "35",
+    "foreigners": "21",
+    "e_market": "\u20ac24.50m",
+    "total_market": "\u20ac857.50m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2017,
+    "age": "26.1",
+    "squad": "35",
+    "foreigners": "22",
+    "e_market": "\u20ac24.27m",
+    "total_market": "\u20ac849.50m"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2017,
+    "age": "24.7",
+    "squad": "34",
+    "foreigners": "22",
+    "e_market": "\u20ac24.40m",
+    "total_market": "\u20ac829.60m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2017,
+    "age": "24.8",
+    "squad": "45",
+    "foreigners": "27",
+    "e_market": "\u20ac15.42m",
+    "total_market": "\u20ac694.00m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2017,
+    "age": "24.9",
+    "squad": "48",
+    "foreigners": "30",
+    "e_market": "\u20ac7.94m",
+    "total_market": "\u20ac381.25m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2017,
+    "age": "26.5",
+    "squad": "34",
+    "foreigners": "21",
+    "e_market": "\u20ac8.95m",
+    "total_market": "\u20ac304.25m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2017,
+    "age": "25.8",
+    "squad": "29",
+    "foreigners": "16",
+    "e_market": "\u20ac10.24m",
+    "total_market": "\u20ac297.00m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2017,
+    "age": "25.3",
+    "squad": "41",
+    "foreigners": "24",
+    "e_market": "\u20ac6.36m",
+    "total_market": "\u20ac260.60m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2017,
+    "age": "25.8",
+    "squad": "41",
+    "foreigners": "23",
+    "e_market": "\u20ac5.38m",
+    "total_market": "\u20ac220.73m"
+  },
+  {
+    "name": "Newcastle United",
+    "season": 2017,
+    "age": "25.4",
+    "squad": "37",
+    "foreigners": "24",
+    "e_market": "\u20ac5.63m",
+    "total_market": "\u20ac208.28m"
+  },
+  {
+    "name": "Watford FC",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "37",
+    "foreigners": "28",
+    "e_market": "\u20ac5.30m",
+    "total_market": "\u20ac196.00m"
+  },
+  {
+    "name": "Stoke City",
+    "season": 2017,
+    "age": "26.2",
+    "squad": "35",
+    "foreigners": "27",
+    "e_market": "\u20ac5.50m",
+    "total_market": "\u20ac192.45m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2017,
+    "age": "27.8",
+    "squad": "30",
+    "foreigners": "16",
+    "e_market": "\u20ac5.64m",
+    "total_market": "\u20ac169.30m"
+  },
+  {
+    "name": "West Bromwich Albion",
+    "season": 2017,
+    "age": "26.5",
+    "squad": "33",
+    "foreigners": "17",
+    "e_market": "\u20ac5.03m",
+    "total_market": "\u20ac165.95m"
+  },
+  {
+    "name": "Swansea City",
+    "season": 2017,
+    "age": "26.3",
+    "squad": "36",
+    "foreigners": "25",
+    "e_market": "\u20ac4.60m",
+    "total_market": "\u20ac165.49m"
+  },
+  {
+    "name": "Brighton &amp; Hove Albion",
+    "season": 2017,
+    "age": "26.7",
+    "squad": "39",
+    "foreigners": "27",
+    "e_market": "\u20ac3.80m",
+    "total_market": "\u20ac148.20m"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "season": 2017,
+    "age": "26.0",
+    "squad": "35",
+    "foreigners": "13",
+    "e_market": "\u20ac4.13m",
+    "total_market": "\u20ac144.50m"
+  },
+  {
+    "name": "Huddersfield Town",
+    "season": 2017,
+    "age": "25.6",
+    "squad": "35",
+    "foreigners": "19",
+    "e_market": "\u20ac3.03m",
+    "total_market": "\u20ac106.05m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2018,
+    "age": "24.3",
+    "squad": "46",
+    "foreigners": "34",
+    "e_market": "\u20ac26.16m",
+    "total_market": "\u20ac1.20bn"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2018,
+    "age": "24.7",
+    "squad": "39",
+    "foreigners": "25",
+    "e_market": "\u20ac30.06m",
+    "total_market": "\u20ac1.17bn"
+  },
+  {
+    "name": "Chelsea FC",
+    "season": 2018,
+    "age": "25.6",
+    "squad": "54",
+    "foreigners": "40",
+    "e_market": "\u20ac21.60m",
+    "total_market": "\u20ac1.17bn"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2018,
+    "age": "25.4",
+    "squad": "34",
+    "foreigners": "20",
+    "e_market": "\u20ac26.43m",
+    "total_market": "\u20ac898.60m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2018,
+    "age": "25.3",
+    "squad": "36",
+    "foreigners": "22",
+    "e_market": "\u20ac22.16m",
+    "total_market": "\u20ac797.60m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2018,
+    "age": "24.9",
+    "squad": "42",
+    "foreigners": "28",
+    "e_market": "\u20ac15.69m",
+    "total_market": "\u20ac659.05m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2018,
+    "age": "26.0",
+    "squad": "40",
+    "foreigners": "28",
+    "e_market": "\u20ac13.23m",
+    "total_market": "\u20ac529.10m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2018,
+    "age": "26.4",
+    "squad": "37",
+    "foreigners": "26",
+    "e_market": "\u20ac11.73m",
+    "total_market": "\u20ac434.10m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2018,
+    "age": "26.6",
+    "squad": "37",
+    "foreigners": "23",
+    "e_market": "\u20ac9.70m",
+    "total_market": "\u20ac359.00m"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "season": 2018,
+    "age": "25.7",
+    "squad": "37",
+    "foreigners": "16",
+    "e_market": "\u20ac8.38m",
+    "total_market": "\u20ac310.00m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2018,
+    "age": "24.9",
+    "squad": "40",
+    "foreigners": "18",
+    "e_market": "\u20ac7.64m",
+    "total_market": "\u20ac305.40m"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "season": 2018,
+    "age": "24.1",
+    "squad": "40",
+    "foreigners": "26",
+    "e_market": "\u20ac7.57m",
+    "total_market": "\u20ac302.90m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2018,
+    "age": "26.4",
+    "squad": "36",
+    "foreigners": "21",
+    "e_market": "\u20ac8.03m",
+    "total_market": "\u20ac289.00m"
+  },
+  {
+    "name": "Fulham FC",
+    "season": 2018,
+    "age": "25.7",
+    "squad": "33",
+    "foreigners": "26",
+    "e_market": "\u20ac7.70m",
+    "total_market": "\u20ac254.25m"
+  },
+  {
+    "name": "Newcastle United",
+    "season": 2018,
+    "age": "26.0",
+    "squad": "37",
+    "foreigners": "22",
+    "e_market": "\u20ac6.61m",
+    "total_market": "\u20ac244.65m"
+  },
+  {
+    "name": "Watford FC",
+    "season": 2018,
+    "age": "26.2",
+    "squad": "39",
+    "foreigners": "32",
+    "e_market": "\u20ac6.13m",
+    "total_market": "\u20ac239.10m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2018,
+    "age": "28.1",
+    "squad": "33",
+    "foreigners": "14",
+    "e_market": "\u20ac5.98m",
+    "total_market": "\u20ac197.25m"
+  },
+  {
+    "name": "Brighton &amp; Hove Albion",
+    "season": 2018,
+    "age": "25.8",
+    "squad": "41",
+    "foreigners": "29",
+    "e_market": "\u20ac4.74m",
+    "total_market": "\u20ac194.35m"
+  },
+  {
+    "name": "Huddersfield Town",
+    "season": 2018,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "21",
+    "e_market": "\u20ac4.17m",
+    "total_market": "\u20ac137.45m"
+  },
+  {
+    "name": "Cardiff City",
+    "season": 2018,
+    "age": "27.3",
+    "squad": "35",
+    "foreigners": "20",
+    "e_market": "\u20ac3.23m",
+    "total_market": "\u20ac113.00m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2019,
+    "age": "25.1",
+    "squad": "34",
+    "foreigners": "23",
+    "e_market": "\u20ac30.84m",
+    "total_market": "\u20ac1.05bn"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2019,
+    "age": "23.3",
+    "squad": "56",
+    "foreigners": "31",
+    "e_market": "\u20ac17.90m",
+    "total_market": "\u20ac1.00bn"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2019,
+    "age": "24.8",
+    "squad": "36",
+    "foreigners": "22",
+    "e_market": "\u20ac22.41m",
+    "total_market": "\u20ac806.80m"
+  },
+  {
+    "name": "Chelsea FC",
+    "season": 2019,
+    "age": "24.1",
+    "squad": "36",
+    "foreigners": "22",
+    "e_market": "\u20ac19.61m",
+    "total_market": "\u20ac705.85m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2019,
+    "age": "23.9",
+    "squad": "43",
+    "foreigners": "24",
+    "e_market": "\u20ac15.59m",
+    "total_market": "\u20ac670.45m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2019,
+    "age": "24.3",
+    "squad": "38",
+    "foreigners": "23",
+    "e_market": "\u20ac15.99m",
+    "total_market": "\u20ac607.65m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2019,
+    "age": "26.0",
+    "squad": "35",
+    "foreigners": "21",
+    "e_market": "\u20ac12.01m",
+    "total_market": "\u20ac420.30m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2019,
+    "age": "25.9",
+    "squad": "32",
+    "foreigners": "18",
+    "e_market": "\u20ac12.85m",
+    "total_market": "\u20ac411.10m"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "season": 2019,
+    "age": "23.1",
+    "squad": "44",
+    "foreigners": "30",
+    "e_market": "\u20ac7.28m",
+    "total_market": "\u20ac320.33m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2019,
+    "age": "26.5",
+    "squad": "38",
+    "foreigners": "25",
+    "e_market": "\u20ac7.99m",
+    "total_market": "\u20ac303.60m"
+  },
+  {
+    "name": "AFC Bournemouth",
+    "season": 2019,
+    "age": "24.8",
+    "squad": "39",
+    "foreigners": "16",
+    "e_market": "\u20ac6.98m",
+    "total_market": "\u20ac272.18m"
+  },
+  {
+    "name": "Newcastle United",
+    "season": 2019,
+    "age": "26.0",
+    "squad": "41",
+    "foreigners": "22",
+    "e_market": "\u20ac6.16m",
+    "total_market": "\u20ac252.48m"
+  },
+  {
+    "name": "Aston Villa",
+    "season": 2019,
+    "age": "25.7",
+    "squad": "38",
+    "foreigners": "22",
+    "e_market": "\u20ac6.10m",
+    "total_market": "\u20ac231.70m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2019,
+    "age": "24.4",
+    "squad": "36",
+    "foreigners": "18",
+    "e_market": "\u20ac5.85m",
+    "total_market": "\u20ac210.75m"
+  },
+  {
+    "name": "Brighton &amp; Hove Albion",
+    "season": 2019,
+    "age": "24.7",
+    "squad": "45",
+    "foreigners": "28",
+    "e_market": "\u20ac4.46m",
+    "total_market": "\u20ac200.78m"
+  },
+  {
+    "name": "Watford FC",
+    "season": 2019,
+    "age": "25.7",
+    "squad": "43",
+    "foreigners": "27",
+    "e_market": "\u20ac4.64m",
+    "total_market": "\u20ac199.60m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "33",
+    "foreigners": "18",
+    "e_market": "\u20ac5.74m",
+    "total_market": "\u20ac189.33m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2019,
+    "age": "26.3",
+    "squad": "35",
+    "foreigners": "12",
+    "e_market": "\u20ac4.68m",
+    "total_market": "\u20ac163.88m"
+  },
+  {
+    "name": "Norwich City",
+    "season": 2019,
+    "age": "25.5",
+    "squad": "38",
+    "foreigners": "25",
+    "e_market": "\u20ac3.82m",
+    "total_market": "\u20ac145.33m"
+  },
+  {
+    "name": "Sheffield United",
+    "season": 2019,
+    "age": "27.3",
+    "squad": "34",
+    "foreigners": "15",
+    "e_market": "\u20ac4.08m",
+    "total_market": "\u20ac138.60m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2020,
+    "age": "24.9",
+    "squad": "36",
+    "foreigners": "23",
+    "e_market": "\u20ac29.01m",
+    "total_market": "\u20ac1.04bn"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2020,
+    "age": "24.4",
+    "squad": "43",
+    "foreigners": "28",
+    "e_market": "\u20ac22.55m",
+    "total_market": "\u20ac969.65m"
+  },
+  {
+    "name": "Chelsea FC",
+    "season": 2020,
+    "age": "25.2",
+    "squad": "39",
+    "foreigners": "23",
+    "e_market": "\u20ac22.80m",
+    "total_market": "\u20ac889.20m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2020,
+    "age": "24.9",
+    "squad": "39",
+    "foreigners": "24",
+    "e_market": "\u20ac19.74m",
+    "total_market": "\u20ac770.05m"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2020,
+    "age": "24.6",
+    "squad": "41",
+    "foreigners": "23",
+    "e_market": "\u20ac17.16m",
+    "total_market": "\u20ac703.50m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2020,
+    "age": "24.4",
+    "squad": "42",
+    "foreigners": "26",
+    "e_market": "\u20ac14.74m",
+    "total_market": "\u20ac619.25m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2020,
+    "age": "24.7",
+    "squad": "44",
+    "foreigners": "26",
+    "e_market": "\u20ac11.62m",
+    "total_market": "\u20ac511.20m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2020,
+    "age": "25.3",
+    "squad": "40",
+    "foreigners": "26",
+    "e_market": "\u20ac12.77m",
+    "total_market": "\u20ac510.70m"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "season": 2020,
+    "age": "23.9",
+    "squad": "38",
+    "foreigners": "32",
+    "e_market": "\u20ac11.85m",
+    "total_market": "\u20ac450.30m"
+  },
+  {
+    "name": "Aston Villa",
+    "season": 2020,
+    "age": "23.3",
+    "squad": "53",
+    "foreigners": "24",
+    "e_market": "\u20ac8.13m",
+    "total_market": "\u20ac430.75m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2020,
+    "age": "26.5",
+    "squad": "39",
+    "foreigners": "23",
+    "e_market": "\u20ac8.59m",
+    "total_market": "\u20ac334.90m"
+  },
+  {
+    "name": "Brighton &amp; Hove Albion",
+    "season": 2020,
+    "age": "24.3",
+    "squad": "46",
+    "foreigners": "28",
+    "e_market": "\u20ac6.31m",
+    "total_market": "\u20ac290.40m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2020,
+    "age": "24.5",
+    "squad": "39",
+    "foreigners": "19",
+    "e_market": "\u20ac7.25m",
+    "total_market": "\u20ac282.80m"
+  },
+  {
+    "name": "Newcastle United",
+    "season": 2020,
+    "age": "26.9",
+    "squad": "33",
+    "foreigners": "18",
+    "e_market": "\u20ac7.74m",
+    "total_market": "\u20ac255.35m"
+  },
+  {
+    "name": "Fulham FC",
+    "season": 2020,
+    "age": "26.4",
+    "squad": "38",
+    "foreigners": "30",
+    "e_market": "\u20ac6.31m",
+    "total_market": "\u20ac239.75m"
+  },
+  {
+    "name": "Leeds United",
+    "season": 2020,
+    "age": "24.5",
+    "squad": "39",
+    "foreigners": "23",
+    "e_market": "\u20ac6.11m",
+    "total_market": "\u20ac238.10m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2020,
+    "age": "27.7",
+    "squad": "36",
+    "foreigners": "18",
+    "e_market": "\u20ac5.38m",
+    "total_market": "\u20ac193.85m"
+  },
+  {
+    "name": "Sheffield United",
+    "season": 2020,
+    "age": "24.9",
+    "squad": "40",
+    "foreigners": "14",
+    "e_market": "\u20ac3.75m",
+    "total_market": "\u20ac149.85m"
+  },
+  {
+    "name": "West Bromwich Albion",
+    "season": 2020,
+    "age": "26.1",
+    "squad": "43",
+    "foreigners": "18",
+    "e_market": "\u20ac3.28m",
+    "total_market": "\u20ac141.15m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2020,
+    "age": "26.6",
+    "squad": "32",
+    "foreigners": "11",
+    "e_market": "\u20ac4.13m",
+    "total_market": "\u20ac132.30m"
+  },
+  {
+    "name": "Manchester City",
+    "season": 2021,
+    "age": "27.5",
+    "squad": "22",
+    "foreigners": "15",
+    "e_market": "\u20ac43.60m",
+    "total_market": "\u20ac959.30m"
+  },
+  {
+    "name": "Liverpool FC",
+    "season": 2021,
+    "age": "27.1",
+    "squad": "27",
+    "foreigners": "19",
+    "e_market": "\u20ac33.35m",
+    "total_market": "\u20ac900.50m"
+  },
+  {
+    "name": "Chelsea FC",
+    "season": 2021,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "19",
+    "e_market": "\u20ac31.56m",
+    "total_market": "\u20ac852.00m"
+  },
+  {
+    "name": "Manchester United",
+    "season": 2021,
+    "age": "28.3",
+    "squad": "26",
+    "foreigners": "15",
+    "e_market": "\u20ac27.43m",
+    "total_market": "\u20ac713.25m"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "season": 2021,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "15",
+    "e_market": "\u20ac26.69m",
+    "total_market": "\u20ac587.25m"
+  },
+  {
+    "name": "Arsenal FC",
+    "season": 2021,
+    "age": "24.6",
+    "squad": "21",
+    "foreigners": "14",
+    "e_market": "\u20ac24.81m",
+    "total_market": "\u20ac521.00m"
+  },
+  {
+    "name": "Leicester City",
+    "season": 2021,
+    "age": "27.0",
+    "squad": "27",
+    "foreigners": "18",
+    "e_market": "\u20ac19.07m",
+    "total_market": "\u20ac514.80m"
+  },
+  {
+    "name": "Everton FC",
+    "season": 2021,
+    "age": "27.1",
+    "squad": "29",
+    "foreigners": "15",
+    "e_market": "\u20ac15.44m",
+    "total_market": "\u20ac447.75m"
+  },
+  {
+    "name": "Aston Villa",
+    "season": 2021,
+    "age": "26.5",
+    "squad": "21",
+    "foreigners": "12",
+    "e_market": "\u20ac20.64m",
+    "total_market": "\u20ac433.50m"
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "season": 2021,
+    "age": "25.9",
+    "squad": "25",
+    "foreigners": "21",
+    "e_market": "\u20ac14.08m",
+    "total_market": "\u20ac352.00m"
+  },
+  {
+    "name": "West Ham United",
+    "season": 2021,
+    "age": "28.8",
+    "squad": "24",
+    "foreigners": "16",
+    "e_market": "\u20ac14.53m",
+    "total_market": "\u20ac348.75m"
+  },
+  {
+    "name": "Newcastle United",
+    "season": 2021,
+    "age": "28.4",
+    "squad": "28",
+    "foreigners": "15",
+    "e_market": "\u20ac10.39m",
+    "total_market": "\u20ac290.90m"
+  },
+  {
+    "name": "Leeds United",
+    "season": 2021,
+    "age": "24.9",
+    "squad": "24",
+    "foreigners": "15",
+    "e_market": "\u20ac12.00m",
+    "total_market": "\u20ac288.00m"
+  },
+  {
+    "name": "Southampton FC",
+    "season": 2021,
+    "age": "26.6",
+    "squad": "26",
+    "foreigners": "15",
+    "e_market": "\u20ac10.22m",
+    "total_market": "\u20ac265.75m"
+  },
+  {
+    "name": "Crystal Palace",
+    "season": 2021,
+    "age": "27.5",
+    "squad": "26",
+    "foreigners": "14",
+    "e_market": "\u20ac10.00m",
+    "total_market": "\u20ac259.95m"
+  },
+  {
+    "name": "Brighton &amp; Hove Albion",
+    "season": 2021,
+    "age": "25.5",
+    "squad": "23",
+    "foreigners": "15",
+    "e_market": "\u20ac11.07m",
+    "total_market": "\u20ac254.70m"
+  },
+  {
+    "name": "Brentford FC",
+    "season": 2021,
+    "age": "25.8",
+    "squad": "25",
+    "foreigners": "22",
+    "e_market": "\u20ac9.24m",
+    "total_market": "\u20ac230.90m"
+  },
+  {
+    "name": "Norwich City",
+    "season": 2021,
+    "age": "25.7",
+    "squad": "26",
+    "foreigners": "19",
+    "e_market": "\u20ac5.64m",
+    "total_market": "\u20ac146.55m"
+  },
+  {
+    "name": "Burnley FC",
+    "season": 2021,
+    "age": "29.8",
+    "squad": "24",
+    "foreigners": "10",
+    "e_market": "\u20ac5.92m",
+    "total_market": "\u20ac142.00m"
+  },
+  {
+    "name": "Watford FC",
+    "season": 2021,
+    "age": "27.9",
+    "squad": "29",
+    "foreigners": "25",
+    "e_market": "\u20ac4.84m",
+    "total_market": "\u20ac140.30m"
+  }
+]

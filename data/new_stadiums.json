@@ -1,0 +1,1850 @@
+[
+  {
+    "season": 2021,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2021,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2021,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2021,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2021,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2021,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2021,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2021,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2021,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2021,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2021,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2021,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2021,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2021,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2021,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2021,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2021,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2021,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2021,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2021,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  },
+  {
+    "season": 2020,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2020,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2020,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2020,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2020,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2020,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2020,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2020,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2020,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2020,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2020,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2020,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2020,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2020,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2020,
+    "name": "Sheffield United",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": "32702"
+  },
+  {
+    "season": 2020,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2020,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2020,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2020,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2020,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  },
+  {
+    "season": 2019,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2019,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2019,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2019,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2019,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2019,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2019,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2019,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2019,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2019,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2019,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2019,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2019,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2019,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2019,
+    "name": "Sheffield United",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": "32702"
+  },
+  {
+    "season": 2019,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2019,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2019,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2019,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2019,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  },
+  {
+    "season": 2018,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2018,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2018,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2018,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2018,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2018,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2018,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2018,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2018,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2018,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2018,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2018,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2018,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2018,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2018,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2018,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2018,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2018,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2018,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2018,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  },
+  {
+    "season": 2017,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2017,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2017,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2017,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2017,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2017,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2017,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2017,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2017,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2017,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2017,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2017,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2017,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2017,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2017,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2017,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2017,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2017,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2017,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2017,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2016,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2016,
+    "name": "Arsenal FC",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "capacity": "60383"
+  },
+  {
+    "season": 2016,
+    "name": "Burnley FC",
+    "stadium": "Turf Moor",
+    "city": "Burnley",
+    "capacity": "22546"
+  },
+  {
+    "season": 2016,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "capacity": "41841"
+  },
+  {
+    "season": 2016,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "capacity": "26309"
+  },
+  {
+    "season": 2016,
+    "name": "Everton FC",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "capacity": "40569"
+  },
+  {
+    "season": 2016,
+    "name": "Hull City",
+    "stadium": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": "25504"
+  },
+  {
+    "season": 2016,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester, Leicestershire",
+    "capacity": "34310"
+  },
+  {
+    "season": 2016,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "capacity": "55212"
+  },
+  {
+    "season": 2016,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "capacity": "55097"
+  },
+  {
+    "season": 2016,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "capacity": "76212"
+  },
+  {
+    "season": 2016,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2016,
+    "name": "Southampton FC",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton, Hampshire",
+    "capacity": "32689"
+  },
+  {
+    "season": 2016,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2016,
+    "name": "Sunderland AFC",
+    "stadium": "Stadium of Light",
+    "city": "Sunderland",
+    "capacity": "49000"
+  },
+  {
+    "season": 2016,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2016,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "capacity": "62062"
+  },
+  {
+    "season": 2016,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2016,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2016,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "capacity": "60000"
+  },
+  {
+    "season": 2021,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2021,
+    "name": "Barnsley FC",
+    "stadium": "Oakwell",
+    "city": "Barnsley, South Yorkshire",
+    "capacity": "23009"
+  },
+  {
+    "season": 2021,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2021,
+    "name": "Blackburn Rovers",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "capacity": "31367"
+  },
+  {
+    "season": 2021,
+    "name": "Blackpool FC",
+    "stadium": "Bloomfield Road",
+    "city": "Blackpool, Lancashire",
+    "capacity": "17625"
+  },
+  {
+    "season": 2021,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2021,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2021,
+    "name": "Coventry City",
+    "stadium": "The Coventry Building Society Arena",
+    "city": "Coventry, West Midlands",
+    "capacity": "32609"
+  },
+  {
+    "season": 2021,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2021,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2021,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2021,
+    "name": "Hull City",
+    "stadium": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": "25504"
+  },
+  {
+    "season": 2021,
+    "name": "Luton Town",
+    "stadium": "Kenilworth Road",
+    "city": "Luton, Bedfordshire",
+    "capacity": "10226"
+  },
+  {
+    "season": 2021,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2021,
+    "name": "Millwall FC",
+    "stadium": "The Den",
+    "city": "London",
+    "capacity": "20146"
+  },
+  {
+    "season": 2021,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2021,
+    "name": "Peterborough United",
+    "stadium": "Weston Homes Stadium",
+    "city": "Peterborough",
+    "capacity": "15142"
+  },
+  {
+    "season": 2021,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2021,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2021,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2021,
+    "name": "Sheffield United",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": "32702"
+  },
+  {
+    "season": 2021,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2021,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2021,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2020,
+    "name": "AFC Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth, Dorset",
+    "capacity": "12000"
+  },
+  {
+    "season": 2020,
+    "name": "Barnsley FC",
+    "stadium": "Oakwell",
+    "city": "Barnsley, South Yorkshire",
+    "capacity": "23009"
+  },
+  {
+    "season": 2020,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2020,
+    "name": "Blackburn Rovers",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "capacity": "31367"
+  },
+  {
+    "season": 2020,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2020,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2020,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2020,
+    "name": "Coventry City",
+    "stadium": "The Coventry Building Society Arena",
+    "city": "Coventry, West Midlands",
+    "capacity": "32609"
+  },
+  {
+    "season": 2020,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2020,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2020,
+    "name": "Luton Town",
+    "stadium": "Kenilworth Road",
+    "city": "Luton, Bedfordshire",
+    "capacity": "10226"
+  },
+  {
+    "season": 2020,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2020,
+    "name": "Millwall FC",
+    "stadium": "The Den",
+    "city": "London",
+    "capacity": "20146"
+  },
+  {
+    "season": 2020,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2020,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2020,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2020,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2020,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2020,
+    "name": "Rotherham United",
+    "stadium": "AESSEAL New York Stadium",
+    "city": "Rotherham, South Yorkshire",
+    "capacity": "12021"
+  },
+  {
+    "season": 2020,
+    "name": "Sheffield Wednesday",
+    "stadium": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": "39814"
+  },
+  {
+    "season": 2020,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2020,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2020,
+    "name": "Watford FC",
+    "stadium": "Vicarage Road",
+    "city": "Watford",
+    "capacity": "22200"
+  },
+  {
+    "season": 2020,
+    "name": "Wycombe Wanderers",
+    "stadium": "Adams Park",
+    "city": "High Wycombe, Buckinghamshire",
+    "capacity": "10000"
+  },
+  {
+    "season": 2019,
+    "name": "Barnsley FC",
+    "stadium": "Oakwell",
+    "city": "Barnsley, South Yorkshire",
+    "capacity": "23009"
+  },
+  {
+    "season": 2019,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2019,
+    "name": "Blackburn Rovers",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "capacity": "31367"
+  },
+  {
+    "season": 2019,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2019,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2019,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2019,
+    "name": "Charlton Athletic",
+    "stadium": "The Valley",
+    "city": "London",
+    "capacity": "27111"
+  },
+  {
+    "season": 2019,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2019,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2019,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2019,
+    "name": "Hull City",
+    "stadium": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": "25504"
+  },
+  {
+    "season": 2019,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2019,
+    "name": "Luton Town",
+    "stadium": "Kenilworth Road",
+    "city": "Luton, Bedfordshire",
+    "capacity": "10226"
+  },
+  {
+    "season": 2019,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2019,
+    "name": "Millwall FC",
+    "stadium": "The Den",
+    "city": "London",
+    "capacity": "20146"
+  },
+  {
+    "season": 2019,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2019,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2019,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2019,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2019,
+    "name": "Sheffield Wednesday",
+    "stadium": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": "39814"
+  },
+  {
+    "season": 2019,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2019,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2019,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2019,
+    "name": "Wigan Athletic",
+    "stadium": "DW Stadium",
+    "city": "Wigan",
+    "capacity": "25138"
+  },
+  {
+    "season": 2018,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2018,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2018,
+    "name": "Blackburn Rovers",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "capacity": "31367"
+  },
+  {
+    "season": 2018,
+    "name": "Bolton Wanderers",
+    "stadium": "University of Bolton Stadium",
+    "city": "Bolton",
+    "capacity": "28723"
+  },
+  {
+    "season": 2018,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2018,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2018,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2018,
+    "name": "Hull City",
+    "stadium": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": "25504"
+  },
+  {
+    "season": 2018,
+    "name": "Ipswich Town",
+    "stadium": "Portman Road",
+    "city": "Ipswich, Suffolk",
+    "capacity": "30311"
+  },
+  {
+    "season": 2018,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2018,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2018,
+    "name": "Millwall FC",
+    "stadium": "The Den",
+    "city": "London",
+    "capacity": "20146"
+  },
+  {
+    "season": 2018,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2018,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2018,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2018,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2018,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2018,
+    "name": "Rotherham United",
+    "stadium": "AESSEAL New York Stadium",
+    "city": "Rotherham, South Yorkshire",
+    "capacity": "12021"
+  },
+  {
+    "season": 2018,
+    "name": "Sheffield United",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": "32702"
+  },
+  {
+    "season": 2018,
+    "name": "Sheffield Wednesday",
+    "stadium": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": "39814"
+  },
+  {
+    "season": 2018,
+    "name": "Stoke City",
+    "stadium": "bet365 Stadium",
+    "city": "Stoke-on-Trent, Staffordshire",
+    "capacity": "30089"
+  },
+  {
+    "season": 2018,
+    "name": "Swansea City",
+    "stadium": "Swansea.com Stadium",
+    "city": "Swansea",
+    "capacity": "21028"
+  },
+  {
+    "season": 2018,
+    "name": "West Bromwich Albion",
+    "stadium": "The Hawthorns",
+    "city": "West Bromwich",
+    "capacity": "28003"
+  },
+  {
+    "season": 2018,
+    "name": "Wigan Athletic",
+    "stadium": "DW Stadium",
+    "city": "Wigan",
+    "capacity": "25138"
+  },
+  {
+    "season": 2017,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2017,
+    "name": "Barnsley FC",
+    "stadium": "Oakwell",
+    "city": "Barnsley, South Yorkshire",
+    "capacity": "23009"
+  },
+  {
+    "season": 2017,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2017,
+    "name": "Bolton Wanderers",
+    "stadium": "University of Bolton Stadium",
+    "city": "Bolton",
+    "capacity": "28723"
+  },
+  {
+    "season": 2017,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2017,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2017,
+    "name": "Burton Albion",
+    "stadium": "Pirelli Stadium",
+    "city": "Burton-upon-Trent, Staffordshire",
+    "capacity": "6912"
+  },
+  {
+    "season": 2017,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2017,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2017,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2017,
+    "name": "Hull City",
+    "stadium": "The MKM Stadium",
+    "city": "Hull",
+    "capacity": "25504"
+  },
+  {
+    "season": 2017,
+    "name": "Ipswich Town",
+    "stadium": "Portman Road",
+    "city": "Ipswich, Suffolk",
+    "capacity": "30311"
+  },
+  {
+    "season": 2017,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2017,
+    "name": "Middlesbrough FC",
+    "stadium": "Riverside Stadium",
+    "city": "Middlesbrough",
+    "capacity": "34988"
+  },
+  {
+    "season": 2017,
+    "name": "Millwall FC",
+    "stadium": "The Den",
+    "city": "London",
+    "capacity": "20146"
+  },
+  {
+    "season": 2017,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2017,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2017,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2017,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2017,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2017,
+    "name": "Sheffield United",
+    "stadium": "Bramall Lane",
+    "city": "Sheffield",
+    "capacity": "32702"
+  },
+  {
+    "season": 2017,
+    "name": "Sheffield Wednesday",
+    "stadium": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": "39814"
+  },
+  {
+    "season": 2017,
+    "name": "Sunderland AFC",
+    "stadium": "Stadium of Light",
+    "city": "Sunderland",
+    "capacity": "49000"
+  },
+  {
+    "season": 2017,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  },
+  {
+    "season": 2016,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "capacity": "42788"
+  },
+  {
+    "season": 2016,
+    "name": "Barnsley FC",
+    "stadium": "Oakwell",
+    "city": "Barnsley, South Yorkshire",
+    "capacity": "23009"
+  },
+  {
+    "season": 2016,
+    "name": "Birmingham City",
+    "stadium": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "capacity": "30009"
+  },
+  {
+    "season": 2016,
+    "name": "Blackburn Rovers",
+    "stadium": "Ewood Park",
+    "city": "Blackburn, Lancashire",
+    "capacity": "31367"
+  },
+  {
+    "season": 2016,
+    "name": "Brentford FC",
+    "stadium": "Brentford Community Stadium",
+    "city": "Brentford, Middlesex",
+    "capacity": "17250"
+  },
+  {
+    "season": 2016,
+    "name": "Brighton &amp; Hove Albion",
+    "stadium": "The American Express Community Stadium",
+    "city": "Falmer, East Sussex",
+    "capacity": "31800"
+  },
+  {
+    "season": 2016,
+    "name": "Bristol City",
+    "stadium": "Ashton Gate",
+    "city": "Bristol",
+    "capacity": "27000"
+  },
+  {
+    "season": 2016,
+    "name": "Burton Albion",
+    "stadium": "Pirelli Stadium",
+    "city": "Burton-upon-Trent, Staffordshire",
+    "capacity": "6912"
+  },
+  {
+    "season": 2016,
+    "name": "Cardiff City",
+    "stadium": "Cardiff City Stadium",
+    "city": "Cardiff (Caerdydd)",
+    "capacity": "33280"
+  },
+  {
+    "season": 2016,
+    "name": "Derby County",
+    "stadium": "Pride Park Stadium",
+    "city": "Derby",
+    "capacity": "33597"
+  },
+  {
+    "season": 2016,
+    "name": "Fulham FC",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "capacity": "25700"
+  },
+  {
+    "season": 2016,
+    "name": "Huddersfield Town",
+    "stadium": "John Smith's Stadium",
+    "city": "Huddersfield, West Yorkshire",
+    "capacity": "24554"
+  },
+  {
+    "season": 2016,
+    "name": "Ipswich Town",
+    "stadium": "Portman Road",
+    "city": "Ipswich, Suffolk",
+    "capacity": "30311"
+  },
+  {
+    "season": 2016,
+    "name": "Leeds United",
+    "stadium": "Elland Road",
+    "city": "Leeds, West Yorkshire",
+    "capacity": "40204"
+  },
+  {
+    "season": 2016,
+    "name": "Newcastle United",
+    "stadium": "St. James' Park",
+    "city": "Newcastle upon Tyne",
+    "capacity": "52389"
+  },
+  {
+    "season": 2016,
+    "name": "Norwich City",
+    "stadium": "Carrow Road",
+    "city": "Norwich, Norfolk",
+    "capacity": "27606"
+  },
+  {
+    "season": 2016,
+    "name": "Nottingham Forest",
+    "stadium": "The City Ground",
+    "city": "Nottingham, Nottinghamshire",
+    "capacity": "30576"
+  },
+  {
+    "season": 2016,
+    "name": "Preston North End",
+    "stadium": "Deepdale",
+    "city": "Preston",
+    "capacity": "23408"
+  },
+  {
+    "season": 2016,
+    "name": "Queens Park Rangers",
+    "stadium": "Kiyan Prince Foundation Stadium",
+    "city": "London",
+    "capacity": "18360"
+  },
+  {
+    "season": 2016,
+    "name": "Reading FC",
+    "stadium": "Select Car Leasing Stadium",
+    "city": "Reading, Berkshire",
+    "capacity": "24200"
+  },
+  {
+    "season": 2016,
+    "name": "Rotherham United",
+    "stadium": "AESSEAL New York Stadium",
+    "city": "Rotherham, South Yorkshire",
+    "capacity": "12021"
+  },
+  {
+    "season": 2016,
+    "name": "Sheffield Wednesday",
+    "stadium": "Hillsborough",
+    "city": "Sheffield",
+    "capacity": "39814"
+  },
+  {
+    "season": 2016,
+    "name": "Wigan Athletic",
+    "stadium": "DW Stadium",
+    "city": "Wigan",
+    "capacity": "25138"
+  },
+  {
+    "season": 2016,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton, West Midlands",
+    "capacity": "32050"
+  }
+]
