@@ -19,4 +19,4 @@ def save_to_csv(filename):
     dataframe.to_csv(f'{filename}.csv', index=False)
 
 
-save_to_csv('england_championship')
+save_to_csv('new')

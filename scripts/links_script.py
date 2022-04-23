@@ -1,9 +1,8 @@
 from selenium import webdriver
-from concurrent.futures.thread import ThreadPoolExecutor
 
-from links import ByLeagueLinksParser
+from main_data_parsers.links import ByLeagueLinksParser
 
-GECKODRIVER_PATH = 'geckodriver'
+GECKODRIVER_PATH = '../geckodriver'
 
 
 headers = {
@@ -14,13 +13,18 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'england/league-one'
+league_name = 'england/league-two'
 urls = [f'{league_name}-201{i}-201{i+1}' for i in range(6, 9)]
 urls.extend([f'{league_name}-2019-2020', f'{league_name}-2020-2021', league_name])
 
 for url in urls:
     full_url = f'https://www.oddsportal.com/soccer/{url}/results'
-    league_url = url.replace('/', '-')
+    name = league_name.replace('/', '-')
     browser = webdriver.Firefox(executable_path=GECKODRIVER_PATH)
     parser = ByLeagueLinksParser(browser, full_url)
-    parser.get_links(f'{league_url}_links.txt')
+    parser.get_links(f'{name}_links.txt')
+    try:
+        print(url)
+        browser.close()
+    except Exception:
+        print('браузер уже закрыт')

@@ -33,5 +33,5 @@ class ByLeagueLinksParser:
                     link = 'https://www.oddsportal.com/' + elem.split('href=\"/')[1].split('\">')[0]
                     links.append(link)
 
-        with open(filename, 'w') as f:
+        with open(filename, 'a') as f:
             f.write('\n'.join(list(set(links))))

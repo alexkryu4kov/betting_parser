@@ -2,11 +2,11 @@ from selenium import webdriver
 import asyncio
 from concurrent.futures.thread import ThreadPoolExecutor
 
-from parser import Parser
+from main_data_parsers.parser import Parser
 
-GECKODRIVER_PATH = 'geckodriver'
+GECKODRIVER_PATH = '../geckodriver'
 
-executor = ThreadPoolExecutor(10)
+executor = ThreadPoolExecutor(1)
 
 
 def scrape(url, league, *, loop):
@@ -38,7 +38,7 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'england-league-one'
+league_name = 'try_not_parsed'
 with open(f'{league_name}_links.txt', 'r') as f:
     links = f.read()
 

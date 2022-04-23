@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-managers = pd.read_csv('managers.csv')
-england = pd.read_csv('england_championship_v1.csv')
+managers = pd.read_csv('../managers.csv')
+england = pd.read_csv('../england-league-two.csv')
 
 managers_team = set(list(managers['Team']))
 homes_team = set(list(england['home_team']))
@@ -57,8 +57,50 @@ matches = {
   "Birmingham": "Birmingham City",
   "Millwall": "Millwall FC",
   "Derby": "Derby County",
+  "Chesterfield": "Chesterfield FC",
+  "Gillingham": "Gillingham FC",
+  "Crewe": "Crewe Alexandra",
+  "Rochdale": "Rochdale AFC",
+  "Oxford Utd": "Oxford United",
+  "Doncaster": "Doncaster Rovers",
+  "Oldham": "Oldham Athletic",
+  "Cheltenham": "Cheltenham Town",
+  "Plymouth": "Plymouth Argyle",
+  "Port Vale": "Port Vale FC",
+  "MK Dons": "Milton Keynes Dons",
+  "Morecambe": "Morecambe FC",
+  "Swindon": "Swindon Town",
+  "Lincoln": "Lincoln City",
+  "Portsmouth": "Portsmouth FC",
+  "Southend": "Southend United",
+  "Walsall": "Walsall FC",
+  "Accrington": "Accrington Stanley",
+  "Scunthorpe": "Scunthorpe United",
+  "Fleetwood": "Fleetwood Town",
+  "Northampton": "Northampton Town",
+  "Tranmere": "Tranmere Rovers",
+  "Cambridge Utd": "Cambridge United",
+  "Shrewsbury": "Shrewsbury Town",
+  "Bury": "Bury AFC",
+  "Exeter": "Exeter City",
+  "Colchester": "Colchester United",
+  "Sutton": "Sutton United",
+  "Macclesfield": "Macclesfield FC",
+  "Barrow": "Barrow AFC",
+  "Notts Co": "Notts County",
+  "Yeovil": "Yeovil Town",
+  "Harrogate": "Harrogate Town",
+  "Crawley": "Crawley Town",
+  "Newport": "Newport County",
+  "Carlisle": "Carlisle United",
+  "Barnet": "Barnet FC",
+  "Forest Green": "Forest Green Rovers",
+  "Grimsby": "Grimsby Town",
+  "Salford": "Salford City",
+  "Stevenage": "Stevenage FC",
+  "Mansfield": "Mansfield Town",
+  "Hartlepool": "Hartlepool United",
 }
-
 
 
 for i, row in england.iterrows():
@@ -75,4 +117,5 @@ for home_team in homes_team:
     if home_team not in managers_team:
         print(home_team)
 
-england.to_csv('england_championship_v1.1.csv', index=False)
+
+england.to_csv('england-league-two_v1.1.csv', index=False)

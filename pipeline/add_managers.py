@@ -2,53 +2,59 @@ import pandas as pd
 from dateutil import parser
 from datetime import datetime
 from dataclasses import dataclass
-from typing import Optional
 
-managers = pd.read_csv('managers.csv')
-england = pd.read_csv('england_championship_v1.1.csv')
+managers = pd.read_csv('../managers.csv')
+england = pd.read_csv('../all_england_v2.7.csv')
 
 
 start = parser.parse(managers['Start'].iloc[0])
 date = parser.parse(england['date'].iloc[0])
-
-print(date)
 
 
 @dataclass
 class Manager:
     start_date: float
     days: int
-    name: int
+    name: str
     birthday: float
     country: start
     month: int
 
 
 def extract_manager(home_team, current_date: datetime):
+    if home_team in ['Bury AFC', 'Macclesfield FC']:
+        return Manager(
+            start_date=0.0,
+            days=0,
+            name='-',
+            birthday=0.0,
+            country='-',
+            month=current_date.month,
+        )
+    is_manager = 0
     for i, row in managers[managers['Team'] == home_team].iterrows():
-        try:
-            end_date = parser.parse(row['End'])
-        except Exception:
-            end_date = None
         start_date = parser.parse(row['Start'])
-        if end_date:
-            if start_date <= current_date <= end_date:
+        if current_date >= start_date:
+            is_manager += 1
+            try:
                 return Manager(
                     start_date=start_date.timestamp(),
                     days=(current_date - start_date).days,
                     name=row['Name'],
-                    birthday=parser.parse(row['Birthday']).timestamp(),
+                    birthday=parser.parse(row['Birthday']).timestamp() if row['Birthday'] != '' else 0.0,
                     country=row['Country'],
                     month=current_date.month,
                 )
-        return Manager(
-            start_date=start_date.timestamp(),
-            days=(current_date - start_date).days,
-            name=row['Name'],
-            birthday=parser.parse(row['Birthday']).timestamp(),
-            country=row['Country'],
-            month=current_date.month,
-        )
+            except Exception:
+                pass
+    return Manager(
+        start_date=0.0,
+        days=0,
+        name='-',
+        birthday=0.0,
+        country='-',
+        month=current_date.month,
+    )
 
 
 home_names = []
@@ -62,6 +68,8 @@ away_birthdays = []
 home_countries = []
 away_countries = []
 months = []
+home_is_manager_and_league_same_country = []
+away_is_manager_and_league_same_country = []
 
 for index, row in england.iterrows():
     home_manager = extract_manager(row['home_team'], parser.parse(row['date']))
@@ -77,6 +85,8 @@ for index, row in england.iterrows():
     home_countries.append(home_manager.country)
     away_countries.append(away_manager.country)
     months.append(home_manager.month)
+    home_is_manager_and_league_same_country.append(int(row['country'].lower() == row['home_manager_country'].lower()))
+    away_is_manager_and_league_same_country.append(int(row['country'].lower() == row['away_manager_country'].lower()))
 
 england['home_manager_working_days'] = home_days
 england['away_manager_working_days'] = away_days
@@ -89,8 +99,7 @@ england['away_manager_start_date'] = away_start_dates
 england['away_manager_birthday'] = away_birthdays
 england['away_manager_country'] = away_countries
 england['month'] = months
+england['home_is_manager_and_league_same_country'] = home_is_manager_and_league_same_country
+england['away_is_manager_and_league_same_country'] = away_is_manager_and_league_same_country
 
-england.to_csv('england_championship_v2.csv', index=False)
-
-
-
+england.to_csv('all_england_v2.8.csv', index=False)

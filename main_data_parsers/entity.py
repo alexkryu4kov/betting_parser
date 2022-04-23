@@ -9,7 +9,6 @@ class MatchInfo:
     season: int
     country: str
     league: str
-    league_level: int
     home_team: str
     away_team: str
     home_win_rate: float

@@ -4,7 +4,7 @@ from dataclasses import asdict
 
 from bs4 import BeautifulSoup
 
-from entity import MatchInfo, ResultMatchInfo
+from main_data_parsers.entity import MatchInfo, ResultMatchInfo
 
 
 months = {
@@ -167,7 +167,6 @@ class Parser:
                 season=season,
                 country=country,
                 league=league,
-                league_level=3,
                 home_team=team1,
                 away_team=team2,
                 home_win_rate=home,
