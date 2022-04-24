@@ -23,4 +23,18 @@ league_matcher = {
     'league-two-2019-2020': 2019,
     'league-two-2020-2021': 2020,
     'league-two': 2021,
+    'national-league-2016-2017': 2016,
+    'national-league-2017-2018': 2017,
+    'national-league-2018-2019': 2018,
+    'national-league-2019-2020': 2019,
+    'national-league-2020-2021': 2020,
+    'national-league': 2021,
+}
+
+league_levels = {
+    'premier-league': 1,
+    'championship': 2,
+    'league-one': 3,
+    'league-two': 4,
+    'national-league': 5,
 }

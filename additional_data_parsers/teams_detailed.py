@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 with open('../data/indices.json', 'r') as f:
     indices = json.load(f)
 
+indices = {"Bury FC": "2413", "Macclesfield Town FC": "2436"}
+
 
 def url(id, season):
     return f'https://www.transfermarkt.com/manchester-city/kader/verein/{id}/plus/0/galerie/0?saison_id={season}'
@@ -51,5 +53,10 @@ for k, v in indices.items():
                 )
         print(f'{k} {s} Done!')
 
+
+with open('../data/teams_detailed.json', 'r') as f:
+    teams_data = json.load(f)
+    teams_data.extend([asdict(team) for team in teams])
+
 with open('../data/teams_detailed.json', 'w') as f:
-    json.dump([asdict(team) for team in teams], f)
+    json.dump(teams_data, f)

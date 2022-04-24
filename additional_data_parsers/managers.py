@@ -1,4 +1,6 @@
 import json
+from dataclasses import dataclass, asdict
+from dateutil import parser
 
 import requests
 from bs4 import BeautifulSoup
@@ -11,10 +13,20 @@ def url(index):
     return f'https://www.transfermarkt.com/manchester-city/mitarbeiterhistorie/verein/{index}'
 
 
+@dataclass
+class ManagerInfo:
+    team: str
+    name: str
+    birthday: str
+    country: str
+    start: str
+    end: str
+
+
 managers = []
-for k, v in indices.items():
-    print(k)
-    page = requests.get(url(v), headers={'User-Agent': 'Custom'})
+for team, index in indices.items():
+    print(team)
+    page = requests.get(url(index), headers={'User-Agent': 'Custom'})
 
     soup = BeautifulSoup(page.text, 'html.parser')
     table = soup.find(class_='items')
@@ -22,18 +34,28 @@ for k, v in indices.items():
     table3 = table2.find_all('tr')
     for row in table3:
         try:
-            d = dict()
-            d['Team'] = k
-            inline = row.find(class_='inline-table')
-            d['Name'] = str(inline).split("title=\"")[1].split("\"/><")[0]
-            d['Birthday'] = str(inline).split("</td></tr><tr><td>")[1].split("</td></tr>")[0]
             zentrierts = row.find_all(class_='zentriert')
-            d['Country'] = str(zentrierts[0]).split("title=\"")[1].split("\"/><")[0]
-            d['Start'] = str(zentrierts[1]).split('">')[1].split('</')[0]
-            d['End'] = str(zentrierts[2]).split('">')[1].split('</')[0]
-            managers.append(d)
+            end = str(zentrierts[2]).split('">')[1].split('</')[0]
+            if parser.parse(end).year < 2015:
+                continue
+            inline = row.find(class_='inline-table')
+            name = str(inline).split("title=\"")[1].split("\"/><")[0]
+            birthday = str(inline).split("</td></tr><tr><td>")[1].split("</td></tr>")[0]
+
+            country = str(zentrierts[0]).split("title=\"")[1].split("\"/><")[0]
+            start = str(zentrierts[1]).split('">')[1].split('</')[0]
+            managers.append(
+                ManagerInfo(
+                    team=team,
+                    name=name,
+                    birthday=birthday,
+                    country=country,
+                    start=start,
+                    end=end,
+                )
+            )
         except Exception:
             continue
 
 with open('../data/managers.json', 'w') as f:
-    json.dump(managers, f)
+    json.dump([asdict(manager) for manager in managers], f)

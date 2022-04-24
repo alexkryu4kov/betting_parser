@@ -1,13 +1,19 @@
-import pandas as pd
-from dateutil import parser
+import json
 from datetime import datetime
 from dataclasses import dataclass
 
-managers = pd.read_csv('../data/managers.csv')
-england = pd.read_csv('../all_england_v2.7.csv')
+import pandas as pd
+from dateutil import parser
+
+from config import LEAGUE_NAME
 
 
-start = parser.parse(managers['Start'].iloc[0])
+with open('../data/managers.json', 'r') as f:
+    managers = json.load(f)
+england = pd.read_csv(f'../{LEAGUE_NAME}_v1.3.csv')
+
+
+start = parser.parse(managers['start'].iloc[0])
 date = parser.parse(england['date'].iloc[0])
 
 
@@ -18,42 +24,25 @@ class Manager:
     name: str
     birthday: float
     country: start
-    month: int
 
 
 def extract_manager(home_team, current_date: datetime):
-    if home_team in ['Bury AFC', 'Macclesfield FC']:
-        return Manager(
-            start_date=0.0,
-            days=0,
-            name='-',
-            birthday=0.0,
-            country='-',
-            month=current_date.month,
-        )
-    is_manager = 0
     for i, row in managers[managers['Team'] == home_team].iterrows():
         start_date = parser.parse(row['Start'])
         if current_date >= start_date:
-            is_manager += 1
-            try:
-                return Manager(
+            return Manager(
                     start_date=start_date.timestamp(),
                     days=(current_date - start_date).days,
                     name=row['Name'],
                     birthday=parser.parse(row['Birthday']).timestamp() if row['Birthday'] != '' else 0.0,
                     country=row['Country'],
-                    month=current_date.month,
                 )
-            except Exception:
-                pass
     return Manager(
         start_date=0.0,
         days=0,
         name='-',
         birthday=0.0,
         country='-',
-        month=current_date.month,
     )
 
 
@@ -67,7 +56,7 @@ home_birthdays = []
 away_birthdays = []
 home_countries = []
 away_countries = []
-months = []
+
 home_is_manager_and_league_same_country = []
 away_is_manager_and_league_same_country = []
 
@@ -84,7 +73,7 @@ for index, row in england.iterrows():
     away_birthdays.append(away_manager.birthday)
     home_countries.append(home_manager.country)
     away_countries.append(away_manager.country)
-    months.append(home_manager.month)
+
     home_is_manager_and_league_same_country.append(int(row['country'].lower() == row['home_manager_country'].lower()))
     away_is_manager_and_league_same_country.append(int(row['country'].lower() == row['away_manager_country'].lower()))
 
@@ -98,8 +87,7 @@ england['home_manager_country'] = home_countries
 england['away_manager_start_date'] = away_start_dates
 england['away_manager_birthday'] = away_birthdays
 england['away_manager_country'] = away_countries
-england['month'] = months
 england['home_is_manager_and_league_same_country'] = home_is_manager_and_league_same_country
 england['away_is_manager_and_league_same_country'] = away_is_manager_and_league_same_country
 
-england.to_csv('all_england_v2.8.csv', index=False)
+england.to_csv(f'../{LEAGUE_NAME}_v1.4.csv', index=False)

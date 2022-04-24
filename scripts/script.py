@@ -6,7 +6,7 @@ from main_data_parsers.parser import Parser
 
 GECKODRIVER_PATH = '../geckodriver'
 
-executor = ThreadPoolExecutor(1)
+executor = ThreadPoolExecutor(10)
 
 
 def scrape(url, league, *, loop):
@@ -19,7 +19,7 @@ def scraper(link, league):
     try:
         match_info = parser.get_match_info()
         print(match_info)
-        with open(f'{league}_match_data.txt', 'a') as f:
+        with open(f'../{league}_match_data.txt', 'a') as f:
             f.write(str(match_info) + '\n')
     except Exception as e:
         print(e)
@@ -38,8 +38,8 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'try_not_parsed'
-with open(f'{league_name}_links.txt', 'r') as f:
+league_name = 'england-national-league-north'
+with open(f'../{league_name}_links.txt', 'r') as f:
     links = f.read()
 
 loop = asyncio.get_event_loop()

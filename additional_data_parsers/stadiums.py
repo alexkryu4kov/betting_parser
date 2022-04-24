@@ -1,13 +1,9 @@
 import json
 from dataclasses import dataclass, asdict
 
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from matchers.stadiums_matcher import StadiumsMatcher
-
-DATASET_PATH = '../all_england_v2.8.csv'
 
 matcher = [
     # premier-league
@@ -110,22 +106,5 @@ for league in matcher:
                 )
             )
 
-new_stadiums = []
-for index, stadium in enumerate(stadiums):
-    try:
-        if stadium.name == stadiums[index-1].name and stadium.season == stadiums[index-1].season:
-            continue
-    except IndexError:
-        new_stadiums.append(stadium)
-        continue
-    new_stadiums.append(stadium)
-
-stadiums_matcher = StadiumsMatcher()
-stadiums_matcher.match_stadiums(new_stadiums)
-
-dataset = pd.read_csv(DATASET_PATH)
-stadiums_matcher.check_stadiums_match(dataset['home_team'].values)
-
-
 with open('../data/stadiums.json', 'w') as f:
-    json.dump([asdict(stadium) for stadium in new_stadiums], f)
+    json.dump([asdict(stadium) for stadium in stadiums], f)

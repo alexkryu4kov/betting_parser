@@ -60,4 +60,4 @@ with open('../data/teams.json', 'r') as f:
     teams_data.extend([asdict(team) for team in teams])
 
 with open('../data/teams.json', 'w') as f:
-    json.dump(teams_data, f)
+    json.dump([asdict(team) for team in teams], f)

@@ -2,9 +2,11 @@ import json
 
 import pandas as pd
 
+from pipeline.config import LEAGUE_NAME
+
 
 def save_to_csv(filename):
-    with open(f'{filename}_match_data.txt', 'r') as f:
+    with open(f'../{filename}_match_data.txt', 'r') as f:
         data = f.read()
 
     new_data = []
@@ -16,7 +18,7 @@ def save_to_csv(filename):
             pass
 
     dataframe = pd.DataFrame(new_data)
-    dataframe.to_csv(f'{filename}.csv', index=False)
+    dataframe.to_csv(f'../{filename}.csv', index=False)
 
 
-save_to_csv('new')
+save_to_csv(LEAGUE_NAME)

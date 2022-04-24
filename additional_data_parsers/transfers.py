@@ -27,10 +27,10 @@ class Info:
 
 
 transfers = []
-for k, v in indices.items():
+for team, index in indices.items():
     for s in range(2015, 2022):
         for part_of_time in ['s', 'w']:
-            link = url(id=indices.get(k), season=s, part_of_season=part_of_time)
+            link = url(id=indices.get(team), season=s, part_of_season=part_of_time)
             page = requests.get(link, headers={'User-Agent': 'Custom'})
             print(link)
             soup = BeautifulSoup(page.text, 'html.parser')
@@ -61,7 +61,7 @@ for k, v in indices.items():
             transfers.append(
                 Info(
                     season=s,
-                    name=k,
+                    name=team,
                     part_of_year='summer' if part_of_time == 's' else 'winter',
                     departures_age=departures_age,
                     departures_sum=departures_sum,

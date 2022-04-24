@@ -2,9 +2,10 @@ import json
 
 import pandas as pd
 
+from config import LEAGUE_NAME
 from matchers.league_matcher import league_matcher
 
-england = pd.read_csv('../england-league-two_v1.1.csv')
+england = pd.read_csv(f'../{LEAGUE_NAME}v1.2.csv')
 
 with open("../teams.json") as f:
     teams = json.load(f)
@@ -34,23 +35,13 @@ away_e_markets = []
 home_total_markets = []
 away_total_markets = []
 for index, row in england.iterrows():
+    is_home = 0
     is_away = 0
     seasons.append(league_matcher[row['league']])
-    if row['home_team'] in ['Bury AFC', 'Macclesfield FC']:
-        home_squads.append(0)
-        home_ages.append(0)
-        home_foreigners.append(0)
-        home_e_markets.append(0)
-        home_total_markets.append(0)
-    if row['away_team'] in ['Bury AFC', 'Macclesfield FC']:
-        is_away += 1
-        away_squads.append(0)
-        away_ages.append(0)
-        away_foreigners.append(0)
-        away_e_markets.append(0)
-        away_total_markets.append(0)
+
     for team in teams:
         if team['name'] == row['home_team'] and league_matcher[row['league']] == team['season']:
+            is_home += 1
             home_squads.append(team['squad'])
             home_ages.append(team['age'])
             home_foreigners.append(team['foreigners'])
@@ -63,8 +54,18 @@ for index, row in england.iterrows():
             away_foreigners.append(team['foreigners'])
             away_e_markets.append(extract_market_value(team['e_market']))
             away_total_markets.append(extract_market_value(team['total_market']))
+    if is_home == 0:
+        home_squads.append(0)
+        home_ages.append(0)
+        home_foreigners.append(0)
+        home_e_markets.append(0)
+        home_total_markets.append(0)
     if is_away == 0:
-        print(row['away_team'])
+        away_squads.append(0)
+        away_ages.append(0)
+        away_foreigners.append(0)
+        away_e_markets.append(0)
+        away_total_markets.append(0)
 
 print(len(home_squads))
 print(len(away_squads))
@@ -80,4 +81,4 @@ england['away_e_market_value'] = away_e_markets
 england['away_total_market_value'] = away_total_markets
 england['season'] = seasons
 
-england.to_csv('england-league-two_v1.2.csv', index=False)
+england.to_csv(f'{LEAGUE_NAME}_v1.3.csv', index=False)
