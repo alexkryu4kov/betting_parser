@@ -1,5 +1,4 @@
 import json
-from dataclasses import asdict
 
 import pandas as pd
 
@@ -25,11 +24,11 @@ teams_matcher.check_teams_match(list(set(manager['team'] for manager in managers
 
 stadiums_matcher = StadiumsMatcher()
 stadiums_matcher.clear_stadiums(stadiums)
-stadiums_matcher.match_stadiums(stadiums)
+stadiums_matcher.match_stadiums()
 print('Stadiums: \n')
 stadiums_matcher.check_stadiums_match(teams_matcher.teams)
 
-# teams_matcher.dataset.to_csv(f'../{LEAGUE_NAME}_v1.1.csv', index=False)
+teams_matcher.dataset.to_csv(f'../{LEAGUE_NAME}_v1.1.csv', index=False)
 
-# with open('../data/stadiums.json', 'w') as f:
-#     json.dump([asdict(stadium) for stadium in stadiums_matcher.new_stadiums], f)
+with open('../data/stadiums.json', 'w') as f:
+    json.dump([stadium for stadium in stadiums_matcher.matched_stadiums], f)

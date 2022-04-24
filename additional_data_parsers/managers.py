@@ -36,7 +36,7 @@ for team, index in indices.items():
         try:
             zentrierts = row.find_all(class_='zentriert')
             end = str(zentrierts[2]).split('">')[1].split('</')[0]
-            if parser.parse(end).year < 2015:
+            if end != '-' and parser.parse(end).year < 2015:
                 continue
             inline = row.find(class_='inline-table')
             name = str(inline).split("title=\"")[1].split("\"/><")[0]
@@ -57,5 +57,6 @@ for team, index in indices.items():
         except Exception:
             continue
 
+print(managers)
 with open('../data/managers.json', 'w') as f:
     json.dump([asdict(manager) for manager in managers], f)

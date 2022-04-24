@@ -3,7 +3,6 @@ import json
 import pandas as pd
 
 from config import LEAGUE_NAME
-from matchers.league_matcher import league_matcher
 from utils import extract_age, extract_market_value
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.5.csv')
@@ -43,7 +42,7 @@ for index, row in england.iterrows():
     is_home = 0
     is_away = 0
     for team in teams:
-        if team['name'] == row['home_team'] and league_matcher[row['league']] == team['season']:
+        if team['name'] == row['home_team'] and row['year'] == team['season']:
             is_home += 1
             if team['position'] == 'Goalkeeper':
                 home_goalkeepers_average_age.append(extract_age(team['age']))
@@ -61,7 +60,7 @@ for index, row in england.iterrows():
                 home_attacks_average_age.append(extract_age(team['age']))
                 home_attacks_total_markets.append(extract_market_value(team['total_market']))
                 home_attacks_e_markets.append(extract_market_value(team['e_market']))
-        elif team['name'] == row['away_team'] and league_matcher[row['league']] == team['season']:
+        elif team['name'] == row['away_team'] and row['year'] == team['season']:
             is_away += 1
             if team['position'] == 'Goalkeeper':
                 away_goalkeepers_average_age.append(extract_age(team['age']))
@@ -80,6 +79,7 @@ for index, row in england.iterrows():
                 away_attacks_total_markets.append(extract_market_value(team['total_market']))
                 away_attacks_e_markets.append(extract_market_value(team['e_market']))
     if is_home == 0:
+        print(row['home_team'])
         home_goalkeepers_average_age.append(0)
         home_goalkeepers_total_markets.append(0)
         home_goalkeepers_e_markets.append(0)
@@ -93,6 +93,7 @@ for index, row in england.iterrows():
         home_attacks_total_markets.append(0)
         home_attacks_e_markets.append(0)
     if is_away == 0:
+        print(row['away_team'])
         away_goalkeepers_average_age.append(0)
         away_goalkeepers_total_markets.append(0)
         away_goalkeepers_e_markets.append(0)

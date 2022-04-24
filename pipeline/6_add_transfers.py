@@ -3,7 +3,6 @@ import json
 import pandas as pd
 
 from config import LEAGUE_NAME
-from matchers.league_matcher import league_matcher
 from utils import extract_market_value
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.6.csv')
@@ -48,7 +47,7 @@ for index, row in england.iterrows():
     if 1 < row['month'] < 9:
         for team in teams:
             if team['name'] == row['home_team']:
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'summer':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'summer':
                     is_home_summer += 1
                     home_summer_departures_age.append(team['departures_age'])
                     home_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -56,7 +55,7 @@ for index, row in england.iterrows():
                     home_summer_arrivals_age.append(team['arrivals_age'])
                     home_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'winter':
+                if row['year'] == team['season'] and team['part_of_year'] == 'winter':
                     is_home_winter += 1
                     home_winter_departures_age.append(team['departures_age'])
                     home_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -65,7 +64,7 @@ for index, row in england.iterrows():
                     home_winter_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_winter_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
             if team['name'] == row['away_team']:
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'summer':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'summer':
                     is_away_summer += 1
                     away_summer_departures_age.append(team['departures_age'])
                     away_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -73,7 +72,7 @@ for index, row in england.iterrows():
                     away_summer_arrivals_age.append(team['arrivals_age'])
                     away_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     away_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'winter':
+                if row['year'] == team['season'] and team['part_of_year'] == 'winter':
                     is_away_winter += 1
                     away_winter_departures_age.append(team['departures_age'])
                     away_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -84,7 +83,7 @@ for index, row in england.iterrows():
     elif row['month'] == 1:
         for team in teams:
             if team['name'] == row['home_team']:
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'summer':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'summer':
                     is_home_summer += 1
                     home_summer_departures_age.append(team['departures_age'])
                     home_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -92,7 +91,7 @@ for index, row in england.iterrows():
                     home_summer_arrivals_age.append(team['arrivals_age'])
                     home_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'winter':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'winter':
                     is_home_winter += 1
                     home_winter_departures_age.append(team['departures_age'])
                     home_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -101,7 +100,7 @@ for index, row in england.iterrows():
                     home_winter_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_winter_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
             if team['name'] == row['away_team']:
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'summer':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'summer':
                     is_away_summer += 1
                     away_summer_departures_age.append(team['departures_age'])
                     away_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -109,7 +108,7 @@ for index, row in england.iterrows():
                     away_summer_arrivals_age.append(team['arrivals_age'])
                     away_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     away_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if (league_matcher[row['league']] - 1) == team['season'] and team['part_of_year'] == 'winter':
+                if (row['year'] - 1) == team['season'] and team['part_of_year'] == 'winter':
                     is_away_winter += 1
                     away_winter_departures_age.append(team['departures_age'])
                     away_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -120,7 +119,7 @@ for index, row in england.iterrows():
     else:
         for team in teams:
             if team['name'] == row['home_team']:
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'summer':
+                if row['year'] == team['season'] and team['part_of_year'] == 'summer':
                     is_home_summer += 1
                     home_summer_departures_age.append(team['departures_age'])
                     home_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -128,7 +127,7 @@ for index, row in england.iterrows():
                     home_summer_arrivals_age.append(team['arrivals_age'])
                     home_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'winter':
+                if row['year'] == team['season'] and team['part_of_year'] == 'winter':
                     is_home_winter += 1
                     home_winter_departures_age.append(team['departures_age'])
                     home_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -137,7 +136,7 @@ for index, row in england.iterrows():
                     home_winter_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     home_winter_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
             if team['name'] == row['away_team']:
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'summer':
+                if row['year'] == team['season'] and team['part_of_year'] == 'summer':
                     is_away_summer += 1
                     away_summer_departures_age.append(team['departures_age'])
                     away_summer_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -145,7 +144,7 @@ for index, row in england.iterrows():
                     away_summer_arrivals_age.append(team['arrivals_age'])
                     away_summer_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     away_summer_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
-                if league_matcher[row['league']] == team['season'] and team['part_of_year'] == 'winter':
+                if row['year'] == team['season'] and team['part_of_year'] == 'winter':
                     is_away_winter += 1
                     away_winter_departures_age.append(team['departures_age'])
                     away_winter_departures_sum.append(extract_market_value(team['departures_sum']))
@@ -154,6 +153,7 @@ for index, row in england.iterrows():
                     away_winter_arrivals_sum.append(extract_market_value(team['arrivals_sum']))
                     away_winter_arrivals_market_value.append(extract_market_value(team['arrivals_market_value']))
     if is_home_summer == 0:
+        print(row['home_team'])
         home_summer_departures_age.append('0')
         home_summer_departures_sum.append('0')
         home_summer_departures_market_value.append('0')
@@ -161,6 +161,7 @@ for index, row in england.iterrows():
         home_summer_arrivals_sum.append('0')
         home_summer_arrivals_market_value.append('0')
     if is_home_winter == 0:
+        print(row['home_team'])
         home_winter_departures_age.append('0')
         home_winter_departures_sum.append('0')
         home_winter_departures_market_value.append('0')
@@ -168,6 +169,7 @@ for index, row in england.iterrows():
         home_winter_arrivals_sum.append('0')
         home_winter_arrivals_market_value.append('0')
     if is_away_summer == 0:
+        print(row['away_team'])
         away_summer_departures_age.append('0')
         away_summer_departures_sum.append('0')
         away_summer_departures_market_value.append('0')
@@ -175,6 +177,7 @@ for index, row in england.iterrows():
         away_summer_arrivals_sum.append('0')
         away_summer_arrivals_market_value.append('0')
     if is_away_winter == 0:
+        print(row['away_team'])
         away_winter_departures_age.append('0')
         away_winter_departures_sum.append('0')
         away_winter_departures_market_value.append('0')

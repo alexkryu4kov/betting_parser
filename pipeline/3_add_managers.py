@@ -13,30 +13,28 @@ with open('../data/managers.json', 'r') as f:
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.3.csv')
 
 
-start = parser.parse(managers['start'].iloc[0])
-date = parser.parse(england['date'].iloc[0])
-
-
 @dataclass
 class Manager:
     start_date: float
     days: int
     name: str
     birthday: float
-    country: start
+    country: str
 
 
-def extract_manager(home_team, current_date: datetime):
-    for i, row in managers[managers['Team'] == home_team].iterrows():
-        start_date = parser.parse(row['Start'])
-        if current_date >= start_date:
-            return Manager(
-                    start_date=start_date.timestamp(),
-                    days=(current_date - start_date).days,
-                    name=row['Name'],
-                    birthday=parser.parse(row['Birthday']).timestamp() if row['Birthday'] != '' else 0.0,
-                    country=row['Country'],
-                )
+def extract_manager(team, current_date: datetime):
+    for manager in managers:
+        if team == manager['team']:
+            start_date = parser.parse(manager['start'])
+            if current_date >= start_date:
+                return Manager(
+                        start_date=start_date.timestamp(),
+                        days=(current_date - start_date).days,
+                        name=manager['name'],
+                        birthday=parser.parse(manager['birthday']).timestamp() if manager['birthday'] != '-' else 0.0,
+                        country=manager['country'],
+                    )
+    print(team)
     return Manager(
         start_date=0.0,
         days=0,
@@ -74,8 +72,8 @@ for index, row in england.iterrows():
     home_countries.append(home_manager.country)
     away_countries.append(away_manager.country)
 
-    home_is_manager_and_league_same_country.append(int(row['country'].lower() == row['home_manager_country'].lower()))
-    away_is_manager_and_league_same_country.append(int(row['country'].lower() == row['away_manager_country'].lower()))
+    home_is_manager_and_league_same_country.append(int(row['country'].lower() == home_countries[index].lower()))
+    away_is_manager_and_league_same_country.append(int(row['country'].lower() == away_countries[index].lower()))
 
 england['home_manager_working_days'] = home_days
 england['away_manager_working_days'] = away_days

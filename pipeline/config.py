@@ -1,2 +1,2 @@
-LEAGUE_NAME = 'england-national-league'
-CURRENT_VERSION = 8
+LEAGUE_NAME = 'england-national-league-north'
+CURRENT_VERSION = 10

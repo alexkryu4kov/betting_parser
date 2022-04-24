@@ -3,7 +3,6 @@ import json
 import pandas as pd
 
 from config import LEAGUE_NAME
-from matchers.league_matcher import league_matcher
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.4.csv')
 
@@ -17,28 +16,29 @@ home_cities = []
 away_cities = []
 is_derbys = []
 home_capacities = []
+
 print(len(england['home_team']))
 for index, row in england.iterrows():
     is_home = 0
     is_away = 0
 
     for stadium in stadiums:
-        if stadium['name'] == row['home_team'] and league_matcher[row['league']] == stadium['season']:
+        if stadium['name'] == row['home_team'] and row['year'] == stadium['season']:
             is_home += 1
             home_stadiums.append(stadium['stadium'])
             home_cities.append(stadium['city'])
             home_capacities.append(stadium['capacity'])
-
-    for stadium in stadiums:
-        if stadium['name'] == row['away_team'] and league_matcher[row['league']] == stadium['season']:
+        if stadium['name'] == row['away_team'] and row['year'] == stadium['season']:
             is_away += 1
             away_cities.append(stadium['city'])
 
-    if is_home == 0:
+    if is_home != 1:
+        print(row['home_team'])
         home_stadiums.append('-')
         home_cities.append('-')
         home_capacities.append('0')
     if is_away == 0:
+        print(row['away_team'])
         away_cities.append('-')
 
 

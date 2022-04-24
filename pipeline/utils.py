@@ -1,4 +1,6 @@
 def extract_market_value(market_value):
+    if market_value == 0.0:
+        return 0.0
     if 'bn' in market_value:
         return float(''.join(c for c in market_value if c.isdigit() or c == '')) * 1_000_000_000
     if 'm' in market_value:

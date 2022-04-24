@@ -1,6 +1,14 @@
 [
   {
     "team": "Chelsea FC",
+    "name": "Thomas Tuchel",
+    "birthday": "Aug 29, 1973",
+    "country": "Germany",
+    "start": "Jan 26, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Chelsea FC",
     "name": "Frank Lampard",
     "birthday": "Jun 20, 1978",
     "country": "England",
@@ -41,11 +49,27 @@
   },
   {
     "team": "Manchester City",
+    "name": "Pep Guardiola",
+    "birthday": "Jan 18, 1971",
+    "country": "Spain",
+    "start": "Jul 1, 2016",
+    "end": "-"
+  },
+  {
+    "team": "Manchester City",
     "name": "Manuel Pellegrini",
     "birthday": "Sep 16, 1953",
     "country": "Chile",
     "start": "Jul 1, 2013",
     "end": "Jun 30, 2016"
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "name": "Antonio Conte",
+    "birthday": "Jul 31, 1969",
+    "country": "Italy",
+    "start": "Nov 2, 2021",
+    "end": "-"
   },
   {
     "team": "Tottenham Hotspur",
@@ -81,6 +105,14 @@
   },
   {
     "team": "Arsenal FC",
+    "name": "Mikel Arteta",
+    "birthday": "Mar 26, 1982",
+    "country": "Spain",
+    "start": "Dec 22, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Arsenal FC",
     "name": "Freddie Ljungberg",
     "birthday": "Apr 16, 1977",
     "country": "Sweden",
@@ -102,6 +134,14 @@
     "country": "France",
     "start": "Oct 1, 1996",
     "end": "Jun 30, 2018"
+  },
+  {
+    "team": "Manchester United",
+    "name": "Erik ten Hag",
+    "birthday": "Feb 2, 1970",
+    "country": "Netherlands",
+    "start": "Jul 1, 2022",
+    "end": "-"
   },
   {
     "team": "Manchester United",
@@ -153,11 +193,27 @@
   },
   {
     "team": "Liverpool FC",
+    "name": "J\u00fcrgen Klopp",
+    "birthday": "Jun 16, 1967",
+    "country": "Germany",
+    "start": "Oct 8, 2015",
+    "end": "-"
+  },
+  {
+    "team": "Liverpool FC",
     "name": "Brendan Rodgers",
     "birthday": "Jan 26, 1973",
     "country": "Northern Ireland",
     "start": "Jul 1, 2012",
     "end": "Oct 4, 2015"
+  },
+  {
+    "team": "Everton FC",
+    "name": "Frank Lampard",
+    "birthday": "Jun 20, 1978",
+    "country": "England",
+    "start": "Jan 31, 2022",
+    "end": "-"
   },
   {
     "team": "Everton FC",
@@ -281,6 +337,14 @@
   },
   {
     "team": "Southampton FC",
+    "name": "Ralph Hasenh\u00fcttl",
+    "birthday": "Aug 9, 1967",
+    "country": "Austria",
+    "start": "Dec 6, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Southampton FC",
     "name": "Kelvin Davis",
     "birthday": "Sep 29, 1976",
     "country": "England",
@@ -321,6 +385,14 @@
   },
   {
     "team": "Crystal Palace",
+    "name": "Patrick Vieira",
+    "birthday": "Jun 23, 1976",
+    "country": "France",
+    "start": "Jul 4, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Crystal Palace",
     "name": "Roy Hodgson",
     "birthday": "Aug 9, 1947",
     "country": "England",
@@ -358,6 +430,14 @@
     "country": "England",
     "start": "Dec 27, 2014",
     "end": "Jan 2, 2015"
+  },
+  {
+    "team": "Leicester City",
+    "name": "Brendan Rodgers",
+    "birthday": "Jan 26, 1973",
+    "country": "Northern Ireland",
+    "start": "Feb 27, 2019",
+    "end": "-"
   },
   {
     "team": "Leicester City",
@@ -409,6 +489,14 @@
   },
   {
     "team": "Stoke City",
+    "name": "Michael O'Neill",
+    "birthday": "Jul 5, 1969",
+    "country": "Northern Ireland",
+    "start": "Nov 20, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Stoke City",
     "name": "Rory Delap",
     "birthday": "Jul 6, 1976",
     "country": "Ireland",
@@ -454,6 +542,14 @@
     "country": "Wales",
     "start": "May 30, 2013",
     "end": "Jan 6, 2018"
+  },
+  {
+    "team": "Watford FC",
+    "name": "Roy Hodgson",
+    "birthday": "Aug 9, 1947",
+    "country": "England",
+    "start": "Jan 25, 2022",
+    "end": "-"
   },
   {
     "team": "Watford FC",
@@ -553,6 +649,14 @@
   },
   {
     "team": "Swansea City",
+    "name": "Russell Martin",
+    "birthday": "Jan 4, 1986",
+    "country": "Scotland",
+    "start": "Aug 1, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Swansea City",
     "name": "Steve Cooper",
     "birthday": "Dec 10, 1979",
     "country": "Wales",
@@ -633,6 +737,14 @@
   },
   {
     "team": "Hull City",
+    "name": "Shota Arveladze",
+    "birthday": "Feb 22, 1973",
+    "country": "Georgia",
+    "start": "Jan 27, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Hull City",
     "name": "Grant McCann",
     "birthday": "Apr 14, 1980",
     "country": "Northern Ireland",
@@ -678,6 +790,14 @@
     "country": "England",
     "start": "Jul 1, 2012",
     "end": "Jul 22, 2016"
+  },
+  {
+    "team": "Sunderland AFC",
+    "name": "Alex Neil",
+    "birthday": "Jun 9, 1981",
+    "country": "Scotland",
+    "start": "Feb 11, 2022",
+    "end": "-"
   },
   {
     "team": "Sunderland AFC",
@@ -737,19 +857,19 @@
   },
   {
     "team": "Sunderland AFC",
-    "name": "Billy McKinlay",
-    "birthday": "Apr 22, 1969",
-    "country": "Scotland",
-    "start": "Nov 2, 2017",
-    "end": "Nov 12, 2017"
-  },
-  {
-    "team": "Sunderland AFC",
     "name": "Robbie Stockdale",
     "birthday": "Nov 30, 1979",
     "country": "Scotland",
     "start": "Nov 2, 2017",
     "end": "Nov 19, 2017"
+  },
+  {
+    "team": "Sunderland AFC",
+    "name": "Billy McKinlay",
+    "birthday": "Apr 22, 1969",
+    "country": "Scotland",
+    "start": "Nov 2, 2017",
+    "end": "Nov 12, 2017"
   },
   {
     "team": "Sunderland AFC",
@@ -793,6 +913,14 @@
   },
   {
     "team": "AFC Bournemouth",
+    "name": "Scott Parker",
+    "birthday": "Oct 13, 1980",
+    "country": "England",
+    "start": "Jul 1, 2021",
+    "end": "-"
+  },
+  {
+    "team": "AFC Bournemouth",
     "name": "Jonathan Woodgate",
     "birthday": "Jan 22, 1980",
     "country": "England",
@@ -814,6 +942,14 @@
     "country": "England",
     "start": "Oct 14, 2012",
     "end": "Aug 1, 2020"
+  },
+  {
+    "team": "Middlesbrough FC",
+    "name": "Chris Wilder",
+    "birthday": "Sep 23, 1967",
+    "country": "England",
+    "start": "Nov 7, 2021",
+    "end": "-"
   },
   {
     "team": "Middlesbrough FC",
@@ -870,6 +1006,14 @@
     "country": "Spain",
     "start": "Nov 13, 2013",
     "end": "Mar 16, 2017"
+  },
+  {
+    "team": "West Bromwich Albion",
+    "name": "Steve Bruce",
+    "birthday": "Dec 31, 1960",
+    "country": "England",
+    "start": "Feb 3, 2022",
+    "end": "-"
   },
   {
     "team": "West Bromwich Albion",
@@ -945,11 +1089,27 @@
   },
   {
     "team": "Burnley FC",
+    "name": "Mike Jackson",
+    "birthday": "Dec 4, 1973",
+    "country": "England",
+    "start": "Apr 15, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Burnley FC",
     "name": "Sean Dyche",
     "birthday": "Jun 28, 1971",
     "country": "England",
     "start": "Oct 30, 2012",
     "end": "Apr 15, 2022"
+  },
+  {
+    "team": "Newcastle United",
+    "name": "Eddie Howe",
+    "birthday": "Nov 29, 1977",
+    "country": "England",
+    "start": "Nov 8, 2021",
+    "end": "-"
   },
   {
     "team": "Newcastle United",
@@ -1001,11 +1161,27 @@
   },
   {
     "team": "Brighton &amp; Hove Albion",
+    "name": "Graham Potter",
+    "birthday": "May 20, 1975",
+    "country": "England",
+    "start": "May 20, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Brighton &amp; Hove Albion",
     "name": "Chris Hughton",
     "birthday": "Dec 11, 1958",
     "country": "Ireland",
     "start": "Dec 31, 2014",
     "end": "May 13, 2019"
+  },
+  {
+    "team": "Huddersfield Town",
+    "name": "Carlos Corber\u00e1n",
+    "birthday": "Apr 7, 1983",
+    "country": "Spain",
+    "start": "Jul 23, 2020",
+    "end": "-"
   },
   {
     "team": "Huddersfield Town",
@@ -1073,6 +1249,14 @@
   },
   {
     "team": "Wolverhampton Wanderers",
+    "name": "Bruno Lage",
+    "birthday": "May 12, 1976",
+    "country": "Portugal",
+    "start": "Jul 1, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Wolverhampton Wanderers",
     "name": "Nuno Esp\u00edrito Santo",
     "birthday": "Jan 25, 1974",
     "country": "Portugal",
@@ -1110,6 +1294,14 @@
     "country": "Wales",
     "start": "May 31, 2013",
     "end": "Jul 29, 2016"
+  },
+  {
+    "team": "Fulham FC",
+    "name": "Marco Silva",
+    "birthday": "Jul 12, 1977",
+    "country": "Portugal",
+    "start": "Jul 1, 2021",
+    "end": "-"
   },
   {
     "team": "Fulham FC",
@@ -1169,6 +1361,14 @@
   },
   {
     "team": "Cardiff City",
+    "name": "Steve Morison",
+    "birthday": "Aug 29, 1983",
+    "country": "Wales",
+    "start": "Oct 23, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Cardiff City",
     "name": "Mick McCarthy",
     "birthday": "Feb 7, 1959",
     "country": "Ireland",
@@ -1206,6 +1406,14 @@
     "country": "England",
     "start": "Oct 6, 2014",
     "end": "May 7, 2016"
+  },
+  {
+    "team": "Aston Villa",
+    "name": "Steven Gerrard",
+    "birthday": "May 30, 1980",
+    "country": "England",
+    "start": "Nov 11, 2021",
+    "end": "-"
   },
   {
     "team": "Aston Villa",
@@ -1305,6 +1513,14 @@
   },
   {
     "team": "Norwich City",
+    "name": "Dean Smith",
+    "birthday": "Mar 19, 1971",
+    "country": "England",
+    "start": "Nov 15, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Norwich City",
     "name": "Daniel Farke",
     "birthday": "Oct 30, 1976",
     "country": "Germany",
@@ -1334,6 +1550,14 @@
     "country": "England",
     "start": "Apr 6, 2014",
     "end": "Jan 5, 2015"
+  },
+  {
+    "team": "Sheffield United",
+    "name": "Paul Heckingbottom",
+    "birthday": "Jul 17, 1977",
+    "country": "England",
+    "start": "Nov 25, 2021",
+    "end": "-"
   },
   {
     "team": "Sheffield United",
@@ -1374,6 +1598,14 @@
     "country": "England",
     "start": "Oct 23, 2013",
     "end": "May 25, 2015"
+  },
+  {
+    "team": "Leeds United",
+    "name": "Jesse Marsch",
+    "birthday": "Nov 8, 1973",
+    "country": "United States",
+    "start": "Feb 28, 2022",
+    "end": "-"
   },
   {
     "team": "Leeds United",
@@ -1433,6 +1665,14 @@
   },
   {
     "team": "Brentford FC",
+    "name": "Thomas Frank",
+    "birthday": "Oct 9, 1973",
+    "country": "Denmark",
+    "start": "Oct 16, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Brentford FC",
     "name": "Dean Smith",
     "birthday": "Mar 19, 1971",
     "country": "England",
@@ -1462,6 +1702,14 @@
     "country": "England",
     "start": "Dec 10, 2013",
     "end": "Jun 14, 2015"
+  },
+  {
+    "team": "Derby County",
+    "name": "Wayne Rooney",
+    "birthday": "Oct 24, 1985",
+    "country": "England",
+    "start": "Jan 15, 2021",
+    "end": "-"
   },
   {
     "team": "Derby County",
@@ -1534,6 +1782,14 @@
     "country": "England",
     "start": "Oct 1, 2013",
     "end": "May 25, 2015"
+  },
+  {
+    "team": "Sheffield Wednesday",
+    "name": "Darren Moore",
+    "birthday": "Apr 22, 1974",
+    "country": "Jamaica",
+    "start": "Mar 1, 2021",
+    "end": "-"
   },
   {
     "team": "Sheffield Wednesday",
@@ -1622,6 +1878,14 @@
     "country": "England",
     "start": "Jan 26, 2014",
     "end": "Jun 11, 2015"
+  },
+  {
+    "team": "Nottingham Forest",
+    "name": "Steve Cooper",
+    "birthday": "Dec 10, 1979",
+    "country": "Wales",
+    "start": "Sep 21, 2021",
+    "end": "-"
   },
   {
     "team": "Nottingham Forest",
@@ -1729,6 +1993,14 @@
   },
   {
     "team": "Queens Park Rangers",
+    "name": "Mark Warburton",
+    "birthday": "Sep 6, 1962",
+    "country": "England",
+    "start": "May 8, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Queens Park Rangers",
     "name": "John Eustace",
     "birthday": "Nov 3, 1979",
     "country": "England",
@@ -1790,6 +2062,14 @@
     "country": "England",
     "start": "Nov 25, 2012",
     "end": "Feb 3, 2015"
+  },
+  {
+    "team": "Reading FC",
+    "name": "Paul Ince",
+    "birthday": "Oct 21, 1967",
+    "country": "England",
+    "start": "Feb 20, 2022",
+    "end": "-"
   },
   {
     "team": "Reading FC",
@@ -1865,6 +2145,14 @@
   },
   {
     "team": "Bristol City",
+    "name": "Nigel Pearson",
+    "birthday": "Aug 21, 1963",
+    "country": "England",
+    "start": "Feb 24, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Bristol City",
     "name": "Paul Simpson",
     "birthday": "Jul 26, 1966",
     "country": "England",
@@ -1910,6 +2198,14 @@
     "country": "England",
     "start": "Dec 3, 2013",
     "end": "Jan 14, 2016"
+  },
+  {
+    "team": "Birmingham City",
+    "name": "Lee Bowyer",
+    "birthday": "Jan 3, 1977",
+    "country": "England",
+    "start": "Mar 16, 2021",
+    "end": "-"
   },
   {
     "team": "Birmingham City",
@@ -1985,6 +2281,14 @@
   },
   {
     "team": "Blackburn Rovers",
+    "name": "Tony Mowbray",
+    "birthday": "Nov 22, 1963",
+    "country": "England",
+    "start": "Feb 22, 2017",
+    "end": "-"
+  },
+  {
+    "team": "Blackburn Rovers",
     "name": "Owen Coyle",
     "birthday": "Jul 14, 1966",
     "country": "Scotland",
@@ -2006,6 +2310,14 @@
     "country": "England",
     "start": "Mar 20, 2013",
     "end": "Nov 10, 2015"
+  },
+  {
+    "team": "Wigan Athletic",
+    "name": "Leam Richardson",
+    "birthday": "Nov 19, 1979",
+    "country": "England",
+    "start": "Apr 21, 2021",
+    "end": "-"
   },
   {
     "team": "Wigan Athletic",
@@ -2081,6 +2393,14 @@
   },
   {
     "team": "Ipswich Town",
+    "name": "Kieran McKenna",
+    "birthday": "May 14, 1986",
+    "country": "Northern Ireland",
+    "start": "Dec 20, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Ipswich Town",
     "name": "John McGreal",
     "birthday": "Jun 2, 1972",
     "country": "England",
@@ -2142,6 +2462,14 @@
     "country": "Ireland",
     "start": "Nov 1, 2012",
     "end": "Apr 10, 2018"
+  },
+  {
+    "team": "Barnsley FC",
+    "name": "Poya Asbaghi",
+    "birthday": "Jul 17, 1985",
+    "country": "Sweden",
+    "start": "Nov 17, 2021",
+    "end": "-"
   },
   {
     "team": "Barnsley FC",
@@ -2252,6 +2580,14 @@
     "name": "Paul Warne",
     "birthday": "May 8, 1973",
     "country": "England",
+    "start": "Apr 5, 2017",
+    "end": "-"
+  },
+  {
+    "team": "Rotherham United",
+    "name": "Paul Warne",
+    "birthday": "May 8, 1973",
+    "country": "England",
     "start": "Nov 28, 2016",
     "end": "Apr 4, 2017"
   },
@@ -2297,6 +2633,14 @@
   },
   {
     "team": "Preston North End",
+    "name": "Ryan Lowe",
+    "birthday": "Sep 18, 1978",
+    "country": "England",
+    "start": "Dec 7, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Preston North End",
     "name": "Frankie McAvoy",
     "birthday": "Jun 1, 1974",
     "country": "Scotland",
@@ -2318,6 +2662,14 @@
     "country": "England",
     "start": "Feb 18, 2013",
     "end": "Jun 29, 2017"
+  },
+  {
+    "team": "Burton Albion",
+    "name": "Jimmy Floyd Hasselbaink",
+    "birthday": "Mar 27, 1972",
+    "country": "Netherlands",
+    "start": "Jan 1, 2021",
+    "end": "-"
   },
   {
     "team": "Burton Albion",
@@ -2350,6 +2702,14 @@
     "country": "Netherlands",
     "start": "Nov 13, 2014",
     "end": "Dec 3, 2015"
+  },
+  {
+    "team": "Bolton Wanderers",
+    "name": "Ian Evatt",
+    "birthday": "Nov 19, 1981",
+    "country": "England",
+    "start": "Jul 1, 2020",
+    "end": "-"
   },
   {
     "team": "Bolton Wanderers",
@@ -2393,6 +2753,14 @@
   },
   {
     "team": "Millwall FC",
+    "name": "Gary Rowett",
+    "birthday": "Mar 6, 1974",
+    "country": "England",
+    "start": "Oct 23, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Millwall FC",
     "name": "Adam Barrett",
     "birthday": "Nov 29, 1979",
     "country": "England",
@@ -2414,6 +2782,14 @@
     "country": "England",
     "start": "Jan 7, 2014",
     "end": "Mar 10, 2015"
+  },
+  {
+    "team": "Charlton Athletic",
+    "name": "Johnnie Jackson",
+    "birthday": "Aug 15, 1982",
+    "country": "England",
+    "start": "Dec 17, 2021",
+    "end": "-"
   },
   {
     "team": "Charlton Athletic",
@@ -2529,6 +2905,14 @@
   },
   {
     "team": "Luton Town",
+    "name": "Nathan Jones",
+    "birthday": "May 28, 1973",
+    "country": "Wales",
+    "start": "May 28, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Luton Town",
     "name": "Mick Harford",
     "birthday": "Feb 12, 1959",
     "country": "England",
@@ -2577,6 +2961,14 @@
   },
   {
     "team": "Coventry City",
+    "name": "Mark Robins",
+    "birthday": "Dec 22, 1969",
+    "country": "England",
+    "start": "Mar 6, 2017",
+    "end": "-"
+  },
+  {
+    "team": "Coventry City",
     "name": "Russell Slade",
     "birthday": "Oct 10, 1960",
     "country": "England",
@@ -2622,6 +3014,22 @@
     "country": "Scotland",
     "start": "Mar 8, 2013",
     "end": "Feb 23, 2015"
+  },
+  {
+    "team": "Wycombe Wanderers",
+    "name": "Gareth Ainsworth",
+    "birthday": "May 10, 1973",
+    "country": "England",
+    "start": "Jul 1, 2013",
+    "end": "-"
+  },
+  {
+    "team": "Blackpool FC",
+    "name": "Neil Critchley",
+    "birthday": "Oct 18, 1978",
+    "country": "England",
+    "start": "Mar 2, 2020",
+    "end": "-"
   },
   {
     "team": "Blackpool FC",
@@ -2678,6 +3086,14 @@
     "country": "England",
     "start": "Oct 30, 2014",
     "end": "May 9, 2015"
+  },
+  {
+    "team": "Peterborough United",
+    "name": "Grant McCann",
+    "birthday": "Apr 14, 1980",
+    "country": "Northern Ireland",
+    "start": "Feb 24, 2022",
+    "end": "-"
   },
   {
     "team": "Peterborough United",
@@ -2817,6 +3233,14 @@
   },
   {
     "team": "Oxford United",
+    "name": "Karl Robinson",
+    "birthday": "Sep 13, 1980",
+    "country": "England",
+    "start": "Mar 22, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Oxford United",
     "name": "Derek Fazackerley",
     "birthday": "May 22, 1952",
     "country": "England",
@@ -2838,6 +3262,14 @@
     "country": "England",
     "start": "Jul 4, 2014",
     "end": "Jun 19, 2017"
+  },
+  {
+    "team": "Milton Keynes Dons",
+    "name": "Liam Manning",
+    "birthday": "Oct 20, 1985",
+    "country": "England",
+    "start": "Aug 13, 2021",
+    "end": "-"
   },
   {
     "team": "Milton Keynes Dons",
@@ -2902,6 +3334,14 @@
     "country": "England",
     "start": "Jul 1, 2010",
     "end": "Oct 23, 2016"
+  },
+  {
+    "team": "Swindon Town",
+    "name": "Ben Garner",
+    "birthday": "May 19, 1980",
+    "country": "England",
+    "start": "Jul 21, 2021",
+    "end": "-"
   },
   {
     "team": "Swindon Town",
@@ -2998,6 +3438,14 @@
     "country": "England",
     "start": "Jul 13, 2013",
     "end": "Oct 17, 2015"
+  },
+  {
+    "team": "Bradford City",
+    "name": "Mark Hughes",
+    "birthday": "Nov 1, 1963",
+    "country": "Wales",
+    "start": "Feb 24, 2022",
+    "end": "-"
   },
   {
     "team": "Bradford City",
@@ -3100,6 +3548,14 @@
     "name": "Stephen Crainey",
     "birthday": "Jun 22, 1981",
     "country": "Scotland",
+    "start": "Dec 21, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Fleetwood Town",
+    "name": "Stephen Crainey",
+    "birthday": "Jun 22, 1981",
+    "country": "Scotland",
     "start": "Nov 25, 2021",
     "end": "Dec 20, 2021"
   },
@@ -3174,6 +3630,14 @@
     "country": "Scotland",
     "start": "Dec 6, 2012",
     "end": "Sep 30, 2015"
+  },
+  {
+    "team": "Scunthorpe United",
+    "name": "Keith Hill",
+    "birthday": "May 17, 1969",
+    "country": "England",
+    "start": "Nov 5, 2021",
+    "end": "-"
   },
   {
     "team": "Scunthorpe United",
@@ -3265,6 +3729,14 @@
   },
   {
     "team": "Gillingham FC",
+    "name": "Neil Harris",
+    "birthday": "Jul 12, 1977",
+    "country": "England",
+    "start": "Jan 31, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Gillingham FC",
     "name": "Steve Lovell",
     "birthday": "Jul 16, 1960",
     "country": "Wales",
@@ -3329,11 +3801,27 @@
   },
   {
     "team": "Port Vale FC",
+    "name": "Andy Crosby",
+    "birthday": "Mar 3, 1973",
+    "country": "England",
+    "start": "Feb 15, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Port Vale FC",
     "name": "Nathan Rooney",
     "birthday": "Sep 10, 1989",
     "country": "England",
     "start": "Mar 23, 2021",
     "end": "Sep 10, 2021"
+  },
+  {
+    "team": "Port Vale FC",
+    "name": "Darrell Clarke",
+    "birthday": "Dec 16, 1977",
+    "country": "England",
+    "start": "Feb 15, 2021",
+    "end": "-"
   },
   {
     "team": "Port Vale FC",
@@ -3401,6 +3889,14 @@
   },
   {
     "team": "Northampton Town",
+    "name": "Jon Brady",
+    "birthday": "Jan 14, 1975",
+    "country": "Australia",
+    "start": "Feb 10, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Northampton Town",
     "name": "Keith Curle",
     "birthday": "Nov 14, 1963",
     "country": "England",
@@ -3446,6 +3942,14 @@
     "country": "England",
     "start": "Jan 27, 2014",
     "end": "May 11, 2016"
+  },
+  {
+    "team": "Oldham Athletic",
+    "name": "John Sheridan",
+    "birthday": "Oct 1, 1964",
+    "country": "Ireland",
+    "start": "Jan 23, 2022",
+    "end": "-"
   },
   {
     "team": "Oldham Athletic",
@@ -3585,6 +4089,14 @@
   },
   {
     "team": "Walsall FC",
+    "name": "Michael Flynn",
+    "birthday": "Oct 17, 1980",
+    "country": "Wales",
+    "start": "Feb 15, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Walsall FC",
     "name": "Matthew Taylor",
     "birthday": "Nov 27, 1981",
     "country": "England",
@@ -3657,6 +4169,14 @@
   },
   {
     "team": "Bristol Rovers",
+    "name": "Joey Barton",
+    "birthday": "Sep 2, 1982",
+    "country": "England",
+    "start": "Feb 22, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Bristol Rovers",
     "name": "Tommy Widdrington",
     "birthday": "Oct 1, 1971",
     "country": "England",
@@ -3713,6 +4233,14 @@
   },
   {
     "team": "Shrewsbury Town",
+    "name": "Steve Cotterill",
+    "birthday": "Jul 20, 1964",
+    "country": "England",
+    "start": "Nov 27, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Shrewsbury Town",
     "name": "Sam Ricketts",
     "birthday": "Oct 11, 1981",
     "country": "Wales",
@@ -3758,6 +4286,22 @@
     "country": "Scotland",
     "start": "May 12, 2014",
     "end": "Oct 6, 2016"
+  },
+  {
+    "team": "Chesterfield FC",
+    "name": "Paul Cook",
+    "birthday": "Feb 22, 1967",
+    "country": "England",
+    "start": "Feb 10, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Chesterfield FC",
+    "name": "Daniel Webb",
+    "birthday": "Jul 2, 1983",
+    "country": "England",
+    "start": "Jan 24, 2022",
+    "end": "-"
   },
   {
     "team": "Chesterfield FC",
@@ -3889,6 +4433,14 @@
   },
   {
     "team": "Southend United",
+    "name": "Kevin Maher",
+    "birthday": "Oct 17, 1976",
+    "country": "Ireland",
+    "start": "Oct 20, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Southend United",
     "name": "Phil Brown",
     "birthday": "May 30, 1959",
     "country": "England",
@@ -3953,6 +4505,14 @@
   },
   {
     "team": "Rochdale AFC",
+    "name": "Robbie Stockdale",
+    "birthday": "Nov 30, 1979",
+    "country": "Scotland",
+    "start": "Jul 10, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Rochdale AFC",
     "name": "Brian Barry-Murphy",
     "birthday": "Jul 27, 1978",
     "country": "Ireland",
@@ -3974,6 +4534,14 @@
     "country": "England",
     "start": "Jan 22, 2013",
     "end": "Mar 4, 2019"
+  },
+  {
+    "team": "AFC Wimbledon",
+    "name": "Mark Bowen",
+    "birthday": "Dec 7, 1963",
+    "country": "Wales",
+    "start": "Mar 30, 2022",
+    "end": "-"
   },
   {
     "team": "AFC Wimbledon",
@@ -4033,6 +4601,14 @@
   },
   {
     "team": "Portsmouth FC",
+    "name": "Danny Cowley",
+    "birthday": "Oct 22, 1978",
+    "country": "England",
+    "start": "Mar 19, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Portsmouth FC",
     "name": "Joe Gallen",
     "birthday": "Sep 2, 1972",
     "country": "Ireland",
@@ -4073,6 +4649,14 @@
   },
   {
     "team": "Plymouth Argyle",
+    "name": "Steven Schumacher",
+    "birthday": "Apr 30, 1984",
+    "country": "England",
+    "start": "Dec 7, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Plymouth Argyle",
     "name": "Ryan Lowe",
     "birthday": "Sep 18, 1978",
     "country": "England",
@@ -4102,6 +4686,14 @@
     "country": "Ireland",
     "start": "Jan 7, 2013",
     "end": "May 28, 2015"
+  },
+  {
+    "team": "Doncaster Rovers",
+    "name": "Gary McSheffrey",
+    "birthday": "Aug 13, 1982",
+    "country": "England",
+    "start": "Dec 29, 2021",
+    "end": "-"
   },
   {
     "team": "Doncaster Rovers",
@@ -4168,6 +4760,22 @@
     "end": "Sep 8, 2015"
   },
   {
+    "team": "Accrington Stanley",
+    "name": "John Coleman",
+    "birthday": "Oct 12, 1962",
+    "country": "England",
+    "start": "Sep 18, 2014",
+    "end": "-"
+  },
+  {
+    "team": "Lincoln City",
+    "name": "Michael Appleton",
+    "birthday": "Dec 4, 1975",
+    "country": "England",
+    "start": "Sep 22, 2019",
+    "end": "-"
+  },
+  {
     "team": "Lincoln City",
     "name": "Andy Warrington",
     "birthday": "Jun 10, 1976",
@@ -4190,6 +4798,14 @@
     "country": "England",
     "start": "Dec 8, 2014",
     "end": "May 13, 2016"
+  },
+  {
+    "team": "Tranmere Rovers",
+    "name": "Micky Mellon",
+    "birthday": "Mar 18, 1972",
+    "country": "Scotland",
+    "start": "Jun 1, 2021",
+    "end": "-"
   },
   {
     "team": "Tranmere Rovers",
@@ -4265,6 +4881,14 @@
   },
   {
     "team": "Crewe Alexandra",
+    "name": "Alex Morris",
+    "birthday": "Oct 5, 1983",
+    "country": "England",
+    "start": "Apr 11, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Crewe Alexandra",
     "name": "David Artell",
     "birthday": "Nov 22, 1980",
     "country": "Gibraltar",
@@ -4278,6 +4902,14 @@
     "country": "England",
     "start": "Nov 10, 2011",
     "end": "Jan 8, 2017"
+  },
+  {
+    "team": "Cheltenham Town",
+    "name": "Michael Duff",
+    "birthday": "Jan 11, 1978",
+    "country": "Northern Ireland",
+    "start": "Sep 10, 2018",
+    "end": "-"
   },
   {
     "team": "Cheltenham Town",
@@ -4313,6 +4945,14 @@
   },
   {
     "team": "Morecambe FC",
+    "name": "Derek Adams",
+    "birthday": "Jun 25, 1975",
+    "country": "Scotland",
+    "start": "Feb 24, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Morecambe FC",
     "name": "Stephen Robinson",
     "birthday": "Dec 10, 1974",
     "country": "Northern Ireland",
@@ -4334,6 +4974,14 @@
     "country": "England",
     "start": "Jul 1, 2012",
     "end": "Oct 27, 2019"
+  },
+  {
+    "team": "Cambridge United",
+    "name": "Mark Bonner",
+    "birthday": "Nov 23, 1985",
+    "country": "England",
+    "start": "Jan 30, 2020",
+    "end": "-"
   },
   {
     "team": "Cambridge United",
@@ -4382,6 +5030,14 @@
     "country": "England",
     "start": "Oct 4, 2012",
     "end": "Nov 2, 2015"
+  },
+  {
+    "team": "Leyton Orient",
+    "name": "Richie Wellens",
+    "birthday": "Mar 26, 1980",
+    "country": "England",
+    "start": "Mar 9, 2022",
+    "end": "-"
   },
   {
     "team": "Leyton Orient",
@@ -4521,6 +5177,14 @@
   },
   {
     "team": "Notts County",
+    "name": "Ian Burchnall",
+    "birthday": "Feb 11, 1983",
+    "country": "England",
+    "start": "Mar 25, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Notts County",
     "name": "Neal Ardley",
     "birthday": "Sep 1, 1972",
     "country": "England",
@@ -4625,6 +5289,14 @@
   },
   {
     "team": "Colchester United",
+    "name": "Wayne Brown",
+    "birthday": "Aug 20, 1977",
+    "country": "England",
+    "start": "Jan 19, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Colchester United",
     "name": "Hayden Mullins",
     "birthday": "Mar 27, 1979",
     "country": "England",
@@ -4697,6 +5369,14 @@
   },
   {
     "team": "Mansfield Town",
+    "name": "Nigel Clough",
+    "birthday": "Mar 19, 1966",
+    "country": "England",
+    "start": "Nov 6, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Mansfield Town",
     "name": "Richard Cooper",
     "birthday": "Sep 27, 1979",
     "country": "England",
@@ -4753,6 +5433,14 @@
   },
   {
     "team": "Carlisle United",
+    "name": "Paul Simpson",
+    "birthday": "Jul 26, 1966",
+    "country": "England",
+    "start": "Feb 24, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Carlisle United",
     "name": "Keith Millen",
     "birthday": "Sep 26, 1966",
     "country": "England",
@@ -4798,6 +5486,14 @@
     "country": "England",
     "start": "Sep 19, 2014",
     "end": "Jun 5, 2018"
+  },
+  {
+    "team": "Grimsby Town",
+    "name": "Paul Hurst",
+    "birthday": "Sep 25, 1974",
+    "country": "England",
+    "start": "Dec 30, 2020",
+    "end": "-"
   },
   {
     "team": "Grimsby Town",
@@ -4878,6 +5574,14 @@
     "country": "England",
     "start": "Mar 23, 2011",
     "end": "Oct 23, 2016"
+  },
+  {
+    "team": "Barnet FC",
+    "name": "Dean Brennan",
+    "birthday": "Jun 17, 1980",
+    "country": "Ireland",
+    "start": "Feb 17, 2022",
+    "end": "-"
   },
   {
     "team": "Barnet FC",
@@ -5017,6 +5721,14 @@
   },
   {
     "team": "Crawley Town",
+    "name": "John Yems",
+    "birthday": "Aug 28, 1959",
+    "country": "England",
+    "start": "Dec 5, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Crawley Town",
     "name": "Gabriele Cioffi",
     "birthday": "Sep 30, 1975",
     "country": "Italy",
@@ -5070,6 +5782,14 @@
     "country": "Wales",
     "start": "Dec 27, 2014",
     "end": "May 12, 2015"
+  },
+  {
+    "team": "Hartlepool United",
+    "name": "Graeme Lee",
+    "birthday": "May 31, 1978",
+    "country": "England",
+    "start": "Dec 1, 2021",
+    "end": "-"
   },
   {
     "team": "Hartlepool United",
@@ -5185,11 +5905,27 @@
   },
   {
     "team": "Exeter City",
+    "name": "Matt Taylor",
+    "birthday": "Jan 30, 1982",
+    "country": "England",
+    "start": "Jun 2, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Exeter City",
     "name": "Paul Tisdale",
     "birthday": "Jan 14, 1973",
     "country": "England",
     "start": "Jul 1, 2011",
     "end": "May 31, 2018"
+  },
+  {
+    "team": "Newport County",
+    "name": "James Rowberry",
+    "birthday": "Apr 26, 1985",
+    "country": "Wales",
+    "start": "Oct 19, 2021",
+    "end": "-"
   },
   {
     "team": "Newport County",
@@ -5262,6 +5998,14 @@
     "country": "England",
     "start": "Oct 4, 2011",
     "end": "Feb 6, 2015"
+  },
+  {
+    "team": "Stevenage FC",
+    "name": "Steve Evans",
+    "birthday": "Oct 30, 1962",
+    "country": "Scotland",
+    "start": "Mar 16, 2022",
+    "end": "-"
   },
   {
     "team": "Stevenage FC",
@@ -5345,6 +6089,14 @@
   },
   {
     "team": "Yeovil Town",
+    "name": "Charlie Lee",
+    "birthday": "Jan 5, 1987",
+    "country": "England",
+    "start": "Mar 28, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Yeovil Town",
     "name": "Darren Sarll",
     "birthday": "Feb 2, 1983",
     "country": "England",
@@ -5390,6 +6142,14 @@
     "country": "England",
     "start": "Jan 9, 2012",
     "end": "Feb 4, 2015"
+  },
+  {
+    "team": "Forest Green Rovers",
+    "name": "Rob Edwards",
+    "birthday": "Dec 25, 1982",
+    "country": "Wales",
+    "start": "May 27, 2021",
+    "end": "-"
   },
   {
     "team": "Forest Green Rovers",
@@ -5489,6 +6249,14 @@
   },
   {
     "team": "Salford City",
+    "name": "Gary Bowyer",
+    "birthday": "Jun 29, 1971",
+    "country": "England",
+    "start": "Mar 23, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Salford City",
     "name": "Richie Wellens",
     "birthday": "Mar 26, 1980",
     "country": "England",
@@ -5518,6 +6286,14 @@
     "country": "England",
     "start": "Jul 1, 2015",
     "end": "May 8, 2018"
+  },
+  {
+    "team": "Barrow AFC",
+    "name": "Phil Brown",
+    "birthday": "May 30, 1959",
+    "country": "England",
+    "start": "Mar 21, 2022",
+    "end": "-"
   },
   {
     "team": "Barrow AFC",
@@ -5616,6 +6392,22 @@
     "end": "Nov 22, 2015"
   },
   {
+    "team": "Harrogate Town",
+    "name": "Simon Weaver",
+    "birthday": "Dec 20, 1977",
+    "country": "England",
+    "start": "May 20, 2009",
+    "end": "-"
+  },
+  {
+    "team": "Sutton United",
+    "name": "Matt Gray",
+    "birthday": "Nov 2, 1981",
+    "country": "England",
+    "start": "May 1, 2019",
+    "end": "-"
+  },
+  {
     "team": "Sutton United",
     "name": "Ian Baird",
     "birthday": "Apr 1, 1964",
@@ -5630,6 +6422,14 @@
     "country": "England",
     "start": "Jul 1, 2008",
     "end": "Mar 19, 2019"
+  },
+  {
+    "team": "Eastleigh FC",
+    "name": "Lee Bradbury",
+    "birthday": "Jul 3, 1975",
+    "country": "England",
+    "start": "Mar 1, 2022",
+    "end": "-"
   },
   {
     "team": "Eastleigh FC",
@@ -5705,6 +6505,14 @@
   },
   {
     "team": "York City",
+    "name": "John Askey",
+    "birthday": "Nov 4, 1964",
+    "country": "England",
+    "start": "Nov 13, 2021",
+    "end": "-"
+  },
+  {
+    "team": "York City",
     "name": "Steve Watson",
     "birthday": "Apr 1, 1974",
     "country": "England",
@@ -5753,6 +6561,14 @@
   },
   {
     "team": "Bromley FC",
+    "name": "Andy Woodman",
+    "birthday": "Aug 11, 1971",
+    "country": "England",
+    "start": "Mar 29, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Bromley FC",
     "name": "Alan Dunne",
     "birthday": "Aug 23, 1982",
     "country": "Ireland",
@@ -5774,6 +6590,14 @@
     "country": "England",
     "start": "Jul 1, 2011",
     "end": "Feb 4, 2016"
+  },
+  {
+    "team": "Guiseley AFC",
+    "name": "Marcus Bignot",
+    "birthday": "Aug 22, 1974",
+    "country": "England",
+    "start": "Jul 1, 2018",
+    "end": "-"
   },
   {
     "team": "Guiseley AFC",
@@ -5822,6 +6646,14 @@
     "country": "England",
     "start": "Sep 11, 2013",
     "end": "Aug 21, 2016"
+  },
+  {
+    "team": "Torquay United",
+    "name": "Gary Johnson",
+    "birthday": "Sep 28, 1955",
+    "country": "England",
+    "start": "Sep 13, 2018",
+    "end": "-"
   },
   {
     "team": "Torquay United",
@@ -5921,6 +6753,14 @@
   },
   {
     "team": "Wrexham AFC",
+    "name": "Phil Parkinson",
+    "birthday": "Dec 1, 1967",
+    "country": "England",
+    "start": "Jul 1, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Wrexham AFC",
     "name": "Dean Keates",
     "birthday": "Jun 30, 1978",
     "country": "England",
@@ -6017,6 +6857,14 @@
   },
   {
     "team": "Braintree Town",
+    "name": "Ryan Maxwell",
+    "birthday": "Jun 16, 1983",
+    "country": "Northern Ireland",
+    "start": "Nov 18, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Braintree Town",
     "name": "Danny Searle",
     "birthday": "Apr 2, 1978",
     "country": "England",
@@ -6089,6 +6937,14 @@
   },
   {
     "team": "Gateshead FC",
+    "name": "Mike Williamson",
+    "birthday": "Nov 8, 1983",
+    "country": "England",
+    "start": "Jun 11, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Gateshead FC",
     "name": "Ben Clark",
     "birthday": "Jan 24, 1983",
     "country": "England",
@@ -6142,6 +6998,14 @@
     "country": "England",
     "start": "Sep 3, 2013",
     "end": "Apr 27, 2015"
+  },
+  {
+    "team": "Southport FC",
+    "name": "Liam Watson",
+    "birthday": "Oct 21, 1970",
+    "country": "England",
+    "start": "Jul 1, 2018",
+    "end": "-"
   },
   {
     "team": "Southport FC",
@@ -6209,6 +7073,14 @@
   },
   {
     "team": "Dover Athletic",
+    "name": "Andy Hessenthaler",
+    "birthday": "Aug 17, 1965",
+    "country": "England",
+    "start": "Oct 8, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Dover Athletic",
     "name": "Jake Leberl",
     "birthday": "Apr 2, 1977",
     "country": "England",
@@ -6222,6 +7094,14 @@
     "country": "England",
     "start": "Jan 20, 2013",
     "end": "Oct 5, 2018"
+  },
+  {
+    "team": "Maidstone United",
+    "name": "Hakan Hayrettin",
+    "birthday": "Feb 4, 1970",
+    "country": "England",
+    "start": "Jan 24, 2019",
+    "end": "-"
   },
   {
     "team": "Maidstone United",
@@ -6246,6 +7126,14 @@
     "country": "England",
     "start": "Jul 1, 2011",
     "end": "Aug 28, 2018"
+  },
+  {
+    "team": "Dagenham &amp; Redbridge FC",
+    "name": "Daryl McMahon",
+    "birthday": "Oct 10, 1982",
+    "country": "Ireland",
+    "start": "Jan 3, 2020",
+    "end": "-"
   },
   {
     "team": "Dagenham &amp; Redbridge FC",
@@ -6289,11 +7177,27 @@
   },
   {
     "team": "Boreham Wood FC",
+    "name": "Luke Garrard",
+    "birthday": "Sep 22, 1985",
+    "country": "England",
+    "start": "Oct 13, 2015",
+    "end": "-"
+  },
+  {
+    "team": "Boreham Wood FC",
     "name": "Ian Allinson",
     "birthday": "Oct 1, 1957",
     "country": "England",
     "start": "Jul 1, 2008",
     "end": "Oct 12, 2015"
+  },
+  {
+    "team": "Solihull Moors",
+    "name": "Neal Ardley",
+    "birthday": "Sep 1, 1972",
+    "country": "England",
+    "start": "Jul 1, 2021",
+    "end": "-"
   },
   {
     "team": "Solihull Moors",
@@ -6377,6 +7281,14 @@
   },
   {
     "team": "Aldershot Town",
+    "name": "Mark Molesley",
+    "birthday": "Mar 11, 1981",
+    "country": "England",
+    "start": "Sep 20, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Aldershot Town",
     "name": "Danny Searle",
     "birthday": "Apr 2, 1978",
     "country": "England",
@@ -6401,16 +7313,16 @@
   },
   {
     "team": "Aldershot Town",
-    "name": "Matt Gray",
-    "birthday": "Nov 2, 1981",
+    "name": "Chris Barker",
+    "birthday": "Mar 2, 1980",
     "country": "England",
     "start": "Jan 22, 2015",
     "end": "Apr 26, 2015"
   },
   {
     "team": "Aldershot Town",
-    "name": "Chris Barker",
-    "birthday": "Mar 2, 1980",
+    "name": "Matt Gray",
+    "birthday": "Nov 2, 1981",
     "country": "England",
     "start": "Jan 22, 2015",
     "end": "Apr 26, 2015"
@@ -6422,6 +7334,14 @@
     "country": "England",
     "start": "Feb 22, 2013",
     "end": "Jan 21, 2015"
+  },
+  {
+    "team": "Chester FC",
+    "name": "Steve Watson",
+    "birthday": "Apr 1, 1974",
+    "country": "England",
+    "start": "Dec 23, 2021",
+    "end": "-"
   },
   {
     "team": "Chester FC",
@@ -6489,6 +7409,14 @@
   },
   {
     "team": "Ebbsfleet United",
+    "name": "Dennis Kutrieb",
+    "birthday": "Dec 1, 1979",
+    "country": "Germany",
+    "start": "Jul 1, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Ebbsfleet United",
     "name": "Kevin Watson",
     "birthday": "Jan 3, 1974",
     "country": "England",
@@ -6518,6 +7446,14 @@
     "country": "England",
     "start": "Dec 10, 2014",
     "end": "May 10, 2015"
+  },
+  {
+    "team": "FC Halifax Town",
+    "name": "Pete Wild",
+    "birthday": "Jul 20, 1984",
+    "country": "England",
+    "start": "Jul 25, 2019",
+    "end": "-"
   },
   {
     "team": "FC Halifax Town",
@@ -6577,6 +7513,14 @@
   },
   {
     "team": "AFC Fylde",
+    "name": "James Rowe",
+    "birthday": "Jul 23, 1983",
+    "country": "England",
+    "start": "Mar 7, 2022",
+    "end": "-"
+  },
+  {
+    "team": "AFC Fylde",
     "name": "Nick Chadwick",
     "birthday": "Oct 26, 1982",
     "country": "England",
@@ -6617,11 +7561,27 @@
   },
   {
     "team": "Maidenhead United",
+    "name": "Alan Devonshire",
+    "birthday": "Apr 13, 1956",
+    "country": "England",
+    "start": "May 5, 2015",
+    "end": "-"
+  },
+  {
+    "team": "Maidenhead United",
     "name": "Johnson Hippolyte",
     "birthday": "Jun 9, 1964",
     "country": "England",
     "start": "Oct 1, 2006",
     "end": "Apr 17, 2015"
+  },
+  {
+    "team": "Havant &amp; Waterlooville FC",
+    "name": "Paul Doswell",
+    "birthday": "Sep 10, 1966",
+    "country": "England",
+    "start": "Apr 29, 2019",
+    "end": "-"
   },
   {
     "team": "Havant &amp; Waterlooville FC",
@@ -6638,6 +7598,14 @@
     "country": "England",
     "start": "Oct 11, 2012",
     "end": "Apr 22, 2019"
+  },
+  {
+    "team": "Stockport County",
+    "name": "Dave Challinor",
+    "birthday": "Oct 2, 1975",
+    "country": "England",
+    "start": "Nov 2, 2021",
+    "end": "-"
   },
   {
     "team": "Stockport County",
@@ -6689,6 +7657,14 @@
   },
   {
     "team": "Chorley FC",
+    "name": "Jamie Vermiglio",
+    "birthday": "Jun 10, 1982",
+    "country": "England",
+    "start": "Jul 1, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Chorley FC",
     "name": "Matt Jansen",
     "birthday": "Oct 20, 1977",
     "country": "England",
@@ -6702,6 +7678,14 @@
     "country": "England",
     "start": "May 11, 2010",
     "end": "Jul 2, 2015"
+  },
+  {
+    "team": "Wealdstone FC",
+    "name": "Stuart Maynard",
+    "birthday": "Oct 18, 1980",
+    "country": "England",
+    "start": "Feb 3, 2021",
+    "end": "-"
   },
   {
     "team": "Wealdstone FC",
@@ -6720,7 +7704,15 @@
     "end": "Aug 21, 2017"
   },
   {
-    "team": "King's Lynn Town",
+    "team": "King’s Lynn Town",
+    "name": "Tommy Widdrington",
+    "birthday": "Oct 1, 1971",
+    "country": "England",
+    "start": "Dec 11, 2021",
+    "end": "-"
+  },
+  {
+    "team": "King’s Lynn Town",
     "name": "Ian Culverhouse",
     "birthday": "Sep 22, 1964",
     "country": "England",
@@ -6728,12 +7720,20 @@
     "end": "Nov 29, 2021"
   },
   {
-    "team": "King's Lynn Town",
+    "team": "King’s Lynn Town",
     "name": "Ian Culverhouse",
     "birthday": "Sep 22, 1964",
     "country": "England",
     "start": "Feb 22, 2017",
     "end": "May 30, 2018"
+  },
+  {
+    "team": "Weymouth FC",
+    "name": "David Oldfield",
+    "birthday": "May 30, 1968",
+    "country": "Australia",
+    "start": "Jan 18, 2022",
+    "end": "-"
   },
   {
     "team": "Weymouth FC",
@@ -6750,6 +7750,14 @@
     "country": "England",
     "start": "Apr 22, 2017",
     "end": "Aug 12, 2020"
+  },
+  {
+    "team": "Altrincham FC",
+    "name": "Phil Parkinson",
+    "birthday": "Jan 1, 1981",
+    "country": "England",
+    "start": "Apr 28, 2017",
+    "end": "-"
   },
   {
     "team": "Altrincham FC",
@@ -6777,11 +7785,27 @@
   },
   {
     "team": "Altrincham FC",
+    "name": "Neil Tolson",
+    "birthday": "Oct 25, 1973",
+    "country": "England",
+    "start": "Mar 10, 2016",
+    "end": "-"
+  },
+  {
+    "team": "Altrincham FC",
     "name": "Lee Sinnott",
     "birthday": "Jul 12, 1965",
     "country": "England",
     "start": "Jul 1, 2011",
     "end": "Mar 10, 2016"
+  },
+  {
+    "team": "Welling United",
+    "name": "Warren Feeney",
+    "birthday": "Jan 17, 1981",
+    "country": "Northern Ireland",
+    "start": "Mar 14, 2022",
+    "end": "-"
   },
   {
     "team": "Welling United",
@@ -6806,6 +7830,14 @@
     "country": "England",
     "start": "Jan 7, 2020",
     "end": "Jan 13, 2021"
+  },
+  {
+    "team": "Welling United",
+    "name": "Steve King",
+    "birthday": "-",
+    "country": "England",
+    "start": "May 21, 2018",
+    "end": "-"
   },
   {
     "team": "Welling United",
@@ -6865,6 +7897,14 @@
   },
   {
     "team": "Hemel Hempstead Town",
+    "name": "Mark Jones",
+    "birthday": "Jun 26, 1979",
+    "country": "England",
+    "start": "Sep 20, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Hemel Hempstead Town",
     "name": "Lee Bircham",
     "birthday": "-",
     "country": "England",
@@ -6889,6 +7929,14 @@
   },
   {
     "team": "Bath City",
+    "name": "Jerry Gill",
+    "birthday": "Sep 8, 1970",
+    "country": "England",
+    "start": "Oct 5, 2017",
+    "end": "-"
+  },
+  {
+    "team": "Bath City",
     "name": "Gary Owers",
     "birthday": "Oct 3, 1968",
     "country": "England",
@@ -6905,11 +7953,27 @@
   },
   {
     "team": "Dartford FC",
+    "name": "Steve King",
+    "birthday": "-",
+    "country": "England",
+    "start": "Oct 10, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Dartford FC",
     "name": "Tony Burman",
     "birthday": "Jun 3, 1958",
     "country": "England",
     "start": "Jan 22, 2005",
     "end": "Jul 1, 2016"
+  },
+  {
+    "team": "Concord Rangers",
+    "name": "Chris Search",
+    "birthday": "-",
+    "country": "England",
+    "start": "May 19, 2021",
+    "end": "-"
   },
   {
     "team": "Concord Rangers",
@@ -6992,6 +8056,22 @@
     "end": "Mar 2, 2017"
   },
   {
+    "team": "Dulwich Hamlet",
+    "name": "Gavin Rose",
+    "birthday": "-",
+    "country": "England",
+    "start": "Aug 1, 2009",
+    "end": "-"
+  },
+  {
+    "team": "Oxford City",
+    "name": "Ross Jenkins",
+    "birthday": "Nov 9, 1990",
+    "country": "England",
+    "start": "Mar 9, 2022",
+    "end": "-"
+  },
+  {
     "team": "Oxford City",
     "name": "Andy Ballard",
     "birthday": "Jun 23, 1984",
@@ -7057,11 +8137,35 @@
   },
   {
     "team": "Chelmsford City",
+    "name": "Robbie Simpson",
+    "birthday": "Mar 15, 1985",
+    "country": "England",
+    "start": "Jan 30, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Chelmsford City",
     "name": "Rod Stringer",
     "birthday": "-",
     "country": "England",
     "start": "May 17, 2016",
     "end": "Jan 29, 2020"
+  },
+  {
+    "team": "Dorking Wanderers",
+    "name": "Marc White",
+    "birthday": "-",
+    "country": "England",
+    "start": "Oct 9, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Eastbourne Borough",
+    "name": "Danny Bloor",
+    "birthday": "Mar 14, 1970",
+    "country": "England",
+    "start": "Nov 3, 2019",
+    "end": "-"
   },
   {
     "team": "Eastbourne Borough",
@@ -7089,6 +8193,14 @@
   },
   {
     "team": "Hampton &amp; Richmond Borough",
+    "name": "Gary McCann",
+    "birthday": "Feb 25, 1972",
+    "country": "England",
+    "start": "May 24, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Hampton &amp; Richmond Borough",
     "name": "Martin Brennan",
     "birthday": "Sep 30, 1979",
     "country": "England",
@@ -7102,6 +8214,30 @@
     "country": "England",
     "start": "Sep 14, 2014",
     "end": "May 15, 2018"
+  },
+  {
+    "team": "Hungerford Town",
+    "name": "Danny Robinson",
+    "birthday": "Apr 14, 1986",
+    "country": "England",
+    "start": "May 11, 2020",
+    "end": "-"
+  },
+  {
+    "team": "Slough Town",
+    "name": "Neil Baker",
+    "birthday": "-",
+    "country": "England",
+    "start": "May 28, 2013",
+    "end": "-"
+  },
+  {
+    "team": "St Albans City",
+    "name": "Ian Allinson",
+    "birthday": "Oct 1, 1957",
+    "country": "England",
+    "start": "Feb 12, 2016",
+    "end": "-"
   },
   {
     "team": "St Albans City",
@@ -7118,6 +8254,14 @@
     "country": "England",
     "start": "Nov 26, 2012",
     "end": "Nov 28, 2015"
+  },
+  {
+    "team": "St Albans City",
+    "name": "Branko Culina",
+    "birthday": "Oct 1, 1957",
+    "country": "Croatia",
+    "start": "-",
+    "end": "-"
   },
   {
     "team": "Hereford FC",
@@ -7161,6 +8305,14 @@
   },
   {
     "team": "Gloucester City",
+    "name": "Lee Mansell",
+    "birthday": "Sep 23, 1982",
+    "country": "England",
+    "start": "Sep 26, 2021",
+    "end": "-"
+  },
+  {
+    "team": "Gloucester City",
     "name": "Paul Groves",
     "birthday": "Feb 28, 1966",
     "country": "England",
@@ -7193,11 +8345,27 @@
   },
   {
     "team": "Darlington FC",
+    "name": "Alun Armstrong",
+    "birthday": "Feb 22, 1975",
+    "country": "England",
+    "start": "May 27, 2019",
+    "end": "-"
+  },
+  {
+    "team": "Darlington FC",
     "name": "Martin Gray",
     "birthday": "Aug 17, 1971",
     "country": "England",
     "start": "Jul 1, 2012",
     "end": "Oct 1, 2017"
+  },
+  {
+    "team": "Kidderminster Harriers",
+    "name": "Russell Penn",
+    "birthday": "Nov 8, 1985",
+    "country": "England",
+    "start": "Apr 24, 2020",
+    "end": "-"
   },
   {
     "team": "Kidderminster Harriers",
@@ -7313,6 +8481,14 @@
   },
   {
     "team": "AFC Telford United",
+    "name": "Paul Carden",
+    "birthday": "Mar 29, 1979",
+    "country": "England",
+    "start": "Nov 21, 2021",
+    "end": "-"
+  },
+  {
+    "team": "AFC Telford United",
     "name": "Dennis Greene",
     "birthday": "Apr 14, 1965",
     "country": "England",
@@ -7342,6 +8518,22 @@
     "country": "England",
     "start": "Dec 22, 2014",
     "end": "Aug 24, 2015"
+  },
+  {
+    "team": "AFC Telford United",
+    "name": "Mick Jones",
+    "birthday": "Mar 24, 1947",
+    "country": "England",
+    "start": "-",
+    "end": "-"
+  },
+  {
+    "team": "Boston United",
+    "name": "Paul Cox",
+    "birthday": "Jan 6, 1972",
+    "country": "England",
+    "start": "Jan 21, 2022",
+    "end": "-"
   },
   {
     "team": "Boston United",
@@ -7374,6 +8566,14 @@
     "country": "England",
     "start": "Mar 4, 2013",
     "end": "Nov 28, 2016"
+  },
+  {
+    "team": "Blyth Spartans",
+    "name": "Terry Mitchell",
+    "birthday": "Jul 18, 1961",
+    "country": "England",
+    "start": "Nov 29, 2021",
+    "end": "-"
   },
   {
     "team": "Blyth Spartans",
@@ -7417,6 +8617,22 @@
   },
   {
     "team": "Farsley Celtic",
+    "name": "Russ Wilcox",
+    "birthday": "Mar 25, 1964",
+    "country": "England",
+    "start": "Feb 1, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Farsley Celtic",
+    "name": "Dave Syers",
+    "birthday": "Nov 30, 1987",
+    "country": "England",
+    "start": "Jan 28, 2022",
+    "end": "-"
+  },
+  {
+    "team": "Farsley Celtic",
     "name": "Neil Ross",
     "birthday": "Aug 10, 1982",
     "country": "England",
@@ -7433,6 +8649,14 @@
   },
   {
     "team": "Brackley Town",
+    "name": "Kevin Wilkin",
+    "birthday": "Oct 1, 1967",
+    "country": "England",
+    "start": "Sep 21, 2015",
+    "end": "-"
+  },
+  {
+    "team": "Brackley Town",
     "name": "Frank Sinclair",
     "birthday": "Dec 3, 1971",
     "country": "Jamaica",
@@ -7446,6 +8670,14 @@
     "country": "Australia",
     "start": "Mar 1, 2010",
     "end": "Sep 6, 2015"
+  },
+  {
+    "team": "Bradford (Park Avenue)",
+    "name": "Mark Bower",
+    "birthday": "Jan 23, 1980",
+    "country": "England",
+    "start": "Oct 30, 2019",
+    "end": "-"
   },
   {
     "team": "Bradford (Park Avenue)",
@@ -7489,11 +8721,27 @@
   },
   {
     "team": "Alfreton Town",
+    "name": "Billy Heath",
+    "birthday": "-",
+    "country": "England",
+    "start": "May 8, 2018",
+    "end": "-"
+  },
+  {
+    "team": "Alfreton Town",
     "name": "Nicky Law",
     "birthday": "Sep 8, 1961",
     "country": "England",
     "start": "May 14, 2007",
     "end": "Feb 4, 2017"
+  },
+  {
+    "team": "Curzon Ashton",
+    "name": "Adam Lakeland",
+    "birthday": "Nov 20, 1984",
+    "country": "England",
+    "start": "Oct 28, 2021",
+    "end": "-"
   },
   {
     "team": "Curzon Ashton",
@@ -7510,6 +8758,14 @@
     "country": "England",
     "start": "Jul 1, 2011",
     "end": "Nov 30, 2018"
+  },
+  {
+    "team": "Kettering Town",
+    "name": "Ian Culverhouse",
+    "birthday": "Sep 22, 1964",
+    "country": "England",
+    "start": "Jan 24, 2022",
+    "end": "-"
   },
   {
     "team": "Kettering Town",
@@ -7534,6 +8790,22 @@
     "country": "England",
     "start": "Jul 1, 2014",
     "end": "Jun 30, 2015"
+  },
+  {
+    "team": "Leamington FC",
+    "name": "Paul Holleran",
+    "birthday": "-",
+    "country": "England",
+    "start": "Nov 11, 2009",
+    "end": "-"
+  },
+  {
+    "team": "Spennymoor Town",
+    "name": "Anthony Johnson",
+    "birthday": "-",
+    "country": "England",
+    "start": "Dec 12, 2021",
+    "end": "-"
   },
   {
     "team": "Spennymoor Town",

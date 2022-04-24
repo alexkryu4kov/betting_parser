@@ -6,6 +6,7 @@ from matchers.matches import stadium_matches
 class StadiumsMatcher:
 
     new_stadiums = []
+    matched_stadiums = []
 
     def clear_stadiums(self, stadiums):
         for index, stadium in enumerate(stadiums):
@@ -17,16 +18,16 @@ class StadiumsMatcher:
                 continue
             self.new_stadiums.append(stadium)
 
-    def match_stadiums(self, stadiums):
-        for stadium in stadiums:
+    def match_stadiums(self):
+        for stadium in self.new_stadiums:
             if stadium['name'] not in stadium_matches:
-                self.new_stadiums.append(stadium)
+                self.matched_stadiums.append(stadium)
             else:
                 new_stadium = deepcopy(stadium)
                 new_stadium['name'] = stadium_matches[stadium['name']]
-                self.new_stadiums.append(new_stadium)
+                self.matched_stadiums.append(new_stadium)
 
     def check_stadiums_match(self, teams):
         for team in teams:
-            if team not in [stadium['name'] for stadium in self.new_stadiums]:
+            if team not in [stadium['name'] for stadium in self.matched_stadiums]:
                 print(team)
