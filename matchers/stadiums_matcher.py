@@ -1,6 +1,10 @@
+import importlib
 from copy import deepcopy
 
-from matchers.matches import stadium_matches
+from config import COUNTRY
+
+matches = importlib.import_module(f'data.{COUNTRY}.matches')
+stadium_matches = matches.stadium_matches
 
 
 class StadiumsMatcher:

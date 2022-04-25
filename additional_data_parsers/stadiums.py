@@ -4,6 +4,8 @@ from dataclasses import dataclass, asdict
 import requests
 from bs4 import BeautifulSoup
 
+from config import COUNTRY
+
 
 matcher = [
     # premier-league
@@ -106,5 +108,5 @@ for league in matcher:
                 )
             )
 
-with open('../data/stadiums.json', 'w') as f:
+with open(f'../data/{COUNTRY}stadiums.json', 'w') as f:
     json.dump([asdict(stadium) for stadium in stadiums], f)

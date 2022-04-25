@@ -1,10 +1,13 @@
 import json
+import importlib
 
 import requests
 from bs4 import BeautifulSoup
 
-from data.leagues import leagues
+from config import COUNTRY
+leagues = importlib.import_module(f'data.{COUNTRY}.leagues')
 
+leagues = leagues.leagues
 indices = {}
 for league in leagues:
     for id in range(2016, 2022):
@@ -27,5 +30,5 @@ for league in leagues:
             except Exception:
                 continue
 
-with open('../data/indices.json', 'w') as f:
+with open(f'../data/{COUNTRY}/indices.json', 'w') as f:
     json.dump(indices, f)

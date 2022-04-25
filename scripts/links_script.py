@@ -13,7 +13,7 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'england/national-league-north'
+league_name = 'germany/2-bundesliga'
 urls = [f'{league_name}-201{i}-201{i+1}' for i in range(6, 9)]
 urls.extend([f'{league_name}-2019-2020', f'{league_name}-2020-2021', league_name])
 

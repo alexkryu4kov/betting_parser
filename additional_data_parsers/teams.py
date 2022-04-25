@@ -4,6 +4,8 @@ from dataclasses import dataclass, asdict
 import requests
 from bs4 import BeautifulSoup
 
+from config import COUNTRY
+
 
 def url(id):
     return f'https://www.transfermarkt.com/premier-league/startseite/wettbewerb/NLN6/plus/?saison_id={id}'
@@ -55,9 +57,9 @@ for id in range(2021, 2022):
             )
         )
 
-with open('../data/teams.json', 'r') as f:
+with open(f'../data/{COUNTRY}/teams.json', 'r') as f:
     teams_data = json.load(f)
     teams_data.extend([asdict(team) for team in teams])
 
-with open('../data/teams.json', 'w') as f:
+with open(f'../data/{COUNTRY}teams.json', 'w') as f:
     json.dump([asdict(team) for team in teams], f)

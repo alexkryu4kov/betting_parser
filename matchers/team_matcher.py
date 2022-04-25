@@ -1,4 +1,9 @@
-from matchers.matches import matches
+import importlib
+
+from config import COUNTRY
+
+matches = importlib.import_module(f'data.{COUNTRY}.matches')
+matches = matches.matches
 
 
 class TeamsMatcher:

@@ -2,7 +2,7 @@ import json
 
 import pandas as pd
 
-from pipeline.config import LEAGUE_NAME
+from config import LEAGUE_NAME
 
 
 def save_to_csv(filename):

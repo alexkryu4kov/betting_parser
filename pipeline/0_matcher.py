@@ -2,14 +2,14 @@ import json
 
 import pandas as pd
 
-from config import LEAGUE_NAME
+from config import COUNTRY, LEAGUE_NAME
 from matchers.stadiums_matcher import StadiumsMatcher
 from matchers.team_matcher import TeamsMatcher
 
-with open('../data/managers.json', 'r') as f:
+with open(f'../data/{COUNTRY}/managers.json', 'r') as f:
     managers = json.load(f)
 
-with open('../data/stadiums.json', 'r') as f:
+with open(f'../data/{COUNTRY}/stadiums.json', 'r') as f:
     stadiums = json.load(f)
 
 
@@ -30,5 +30,5 @@ stadiums_matcher.check_stadiums_match(teams_matcher.teams)
 
 teams_matcher.dataset.to_csv(f'../{LEAGUE_NAME}_v1.1.csv', index=False)
 
-with open('../data/stadiums.json', 'w') as f:
+with open(f'../data/{COUNTRY}/stadiums.json', 'w') as f:
     json.dump([stadium for stadium in stadiums_matcher.matched_stadiums], f)

@@ -5,7 +5,9 @@ from dateutil import parser
 import requests
 from bs4 import BeautifulSoup
 
-with open('../data/indices.json', 'r') as f:
+from config import COUNTRY
+
+with open(f'../data/{COUNTRY}/indices.json', 'r') as f:
     indices = json.load(f)
 
 
@@ -58,5 +60,5 @@ for team, index in indices.items():
             continue
 
 print(managers)
-with open('../data/managers.json', 'w') as f:
+with open(f'../data/{COUNTRY}/managers.json', 'w') as f:
     json.dump([asdict(manager) for manager in managers], f)

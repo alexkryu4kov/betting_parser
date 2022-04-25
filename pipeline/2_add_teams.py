@@ -2,12 +2,12 @@ import json
 
 import pandas as pd
 
-from config import LEAGUE_NAME
+from config import COUNTRY, LEAGUE_NAME
 from utils import extract_market_value
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.2.csv')
 
-with open("../data/teams.json") as f:
+with open(f"../data/{COUNTRY}/teams.json") as f:
     teams = json.load(f)
 
 

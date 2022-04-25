@@ -4,11 +4,11 @@ from dataclasses import dataclass, asdict
 import requests
 from bs4 import BeautifulSoup
 
+from config import COUNTRY
 
-with open('../data/indices.json', 'r') as f:
+
+with open('../data/england/indices.json', 'r') as f:
     indices = json.load(f)
-
-indices = {"Bury FC": "2413", "Macclesfield Town FC": "2436"}
 
 
 def url(id, season):
@@ -54,9 +54,9 @@ for k, v in indices.items():
         print(f'{k} {s} Done!')
 
 
-with open('../data/teams_detailed.json', 'r') as f:
+with open(f'../data/{COUNTRY}/teams_detailed.json', 'r') as f:
     teams_data = json.load(f)
     teams_data.extend([asdict(team) for team in teams])
 
-with open('../data/teams_detailed.json', 'w') as f:
+with open(f'../data/{COUNTRY}/teams_detailed.json', 'w') as f:
     json.dump(teams_data, f)

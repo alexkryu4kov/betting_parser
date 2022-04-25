@@ -80,8 +80,7 @@ class Parser:
 
     def get_match_info(self):
         self._get_pages()
-        day_of_week, date, t = self._extract_date()
-        season = self._extract_season(date)
+        date, t = self._extract_date()
         country, league = self._extract_country_league()
         team1, team2 = self._extract_teams()
         home, draw, away = self._extract_home_draw_away(self._results_page_full)
@@ -161,10 +160,8 @@ class Parser:
         away_away = self._extract_halfs(self._halfs_page, 'P-0.00-35-0')
         match_info = asdict(
             MatchInfo(
-                day_of_week=day_of_week,
                 date=date,
                 time=t,
-                season=season,
                 country=country,
                 league=league,
                 home_team=team1,
@@ -330,9 +327,6 @@ class Parser:
         self._browser.refresh()
         return BeautifulSoup(self._browser.page_source, 'html.parser')
 
-    def _extract_season(self, date):
-        return date.split('.')[-1]
-
     def _extract_country_league(self) -> tuple:
         split = self._results_url_full.split('/')
         return split[4], split[5]
@@ -341,7 +335,6 @@ class Parser:
         """Получает дату матча."""
         date_class = str(self._results_page_full.find('p', class_='date'))
         raw_date = date_class.split('>')[1].split('<')[0]
-        day_of_week = raw_date.split(',')[0]
         date = raw_date.split(',')[1]
         t = raw_date.split(',')[2].strip()
         date_without_spaces = ' '.join(date.split())
@@ -349,7 +342,7 @@ class Parser:
             if key in date_without_spaces:
                 date_without_spaces = date_without_spaces.replace(key, months[key])
         date_without_spaces = date_without_spaces.replace(' ', '.')
-        return day_of_week, date_without_spaces, t
+        return date_without_spaces, t
 
     def _extract_teams(self) -> tuple:
         """Получает названия команд."""

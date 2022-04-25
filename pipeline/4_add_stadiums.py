@@ -2,12 +2,12 @@ import json
 
 import pandas as pd
 
-from config import LEAGUE_NAME
+from config import COUNTRY, LEAGUE_NAME
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.4.csv')
 
 
-with open("../data/stadiums.json") as f:
+with open(f"../data/{COUNTRY}/stadiums.json") as f:
     stadiums = json.load(f)
 
 

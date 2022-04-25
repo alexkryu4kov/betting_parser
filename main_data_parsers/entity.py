@@ -5,8 +5,6 @@ from dataclasses import dataclass
 class MatchInfo:
     date: str
     time: str
-    day_of_week: str
-    season: int
     country: str
     league: str
     home_team: str

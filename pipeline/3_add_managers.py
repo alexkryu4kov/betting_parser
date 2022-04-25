@@ -5,11 +5,12 @@ from dataclasses import dataclass
 import pandas as pd
 from dateutil import parser
 
-from config import LEAGUE_NAME
+from config import COUNTRY, LEAGUE_NAME
 
 
-with open('../data/managers.json', 'r') as f:
+with open(f'../data/{COUNTRY}/managers.json', 'r') as f:
     managers = json.load(f)
+
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.3.csv')
 
 

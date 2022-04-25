@@ -4,8 +4,10 @@ from dataclasses import dataclass, asdict
 import requests
 from bs4 import BeautifulSoup
 
+from config import COUNTRY
 
-with open('../data/indices.json', 'r') as f:
+
+with open(f'../data/{COUNTRY}/indices.json', 'r') as f:
     indices = json.load(f)
 
 
@@ -72,5 +74,5 @@ for team, index in indices.items():
                 )
             )
 
-with open('../data/transfers.json', 'w') as f:
+with open(f'../data/{COUNTRY}/transfers.json', 'w') as f:
     json.dump([asdict(transfer) for transfer in transfers], f)

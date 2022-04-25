@@ -1,8 +1,14 @@
+import importlib
+
 import pandas as pd
 from dateutil import parser
 
-from matchers.league_matcher import league_levels, league_matcher, seasons_matcher
-from config import LEAGUE_NAME
+from config import COUNTRY, LEAGUE_NAME
+
+leagues = importlib.import_module(f'data.{COUNTRY}.leagues')
+league_levels = leagues.league_levels
+league_matcher = leagues.league_matcher
+seasons_matcher = leagues.seasons_matcher
 
 england = pd.read_csv(f'../{LEAGUE_NAME}_v1.1.csv')
 
