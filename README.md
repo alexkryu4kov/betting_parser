@@ -1,4 +1,5 @@
-# betting_parser
+# Парсер исторических данных о футбольных матчах
+
 Загрузка данных о футбольных матчах из разных источников:
 - [oddsportal](https://www.oddsportal.com/)
 - [transfermarkt](https://www.transfermarkt.com/)
