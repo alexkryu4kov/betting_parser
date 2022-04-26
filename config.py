@@ -1,3 +1,3 @@
-LEAGUE_NAME = 'england-national-league-north'
-CURRENT_VERSION = 10
-COUNTRY = 'england'
+LEAGUE_NAME = 'germany-3-liga'
+CURRENT_VERSION = 13
+COUNTRY = 'germany'

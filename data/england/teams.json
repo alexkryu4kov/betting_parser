@@ -929,16 +929,16 @@
   {
     "name": "Manchester United",
     "season": 2021,
-    "age": "28.3",
-    "squad": "26",
-    "foreigners": "15",
-    "e_market": "\u20ac27.43m",
-    "total_market": "\u20ac713.25m"
+    "age": "27.7",
+    "squad": "28",
+    "foreigners": "16",
+    "e_market": "\u20ac25.76m",
+    "total_market": "\u20ac721.25m"
   },
   {
     "name": "Tottenham Hotspur",
     "season": 2021,
-    "age": "25.6",
+    "age": "25.7",
     "squad": "22",
     "foreigners": "15",
     "e_market": "\u20ac26.69m",
@@ -965,7 +965,7 @@
   {
     "name": "Everton FC",
     "season": 2021,
-    "age": "27.1",
+    "age": "27.2",
     "squad": "29",
     "foreigners": "15",
     "e_market": "\u20ac15.44m",
@@ -983,7 +983,7 @@
   {
     "name": "Wolverhampton Wanderers",
     "season": 2021,
-    "age": "25.9",
+    "age": "26.0",
     "squad": "25",
     "foreigners": "21",
     "e_market": "\u20ac14.08m",
@@ -992,7 +992,7 @@
   {
     "name": "West Ham United",
     "season": 2021,
-    "age": "28.8",
+    "age": "28.9",
     "squad": "24",
     "foreigners": "16",
     "e_market": "\u20ac14.53m",
@@ -1019,7 +1019,7 @@
   {
     "name": "Southampton FC",
     "season": 2021,
-    "age": "26.6",
+    "age": "26.7",
     "squad": "26",
     "foreigners": "15",
     "e_market": "\u20ac10.22m",
@@ -1028,7 +1028,7 @@
   {
     "name": "Crystal Palace",
     "season": 2021,
-    "age": "27.5",
+    "age": "27.6",
     "squad": "26",
     "foreigners": "14",
     "e_market": "\u20ac10.00m",
@@ -1064,7 +1064,7 @@
   {
     "name": "Burnley FC",
     "season": 2021,
-    "age": "29.8",
+    "age": "29.9",
     "squad": "24",
     "foreigners": "10",
     "e_market": "\u20ac5.92m",
@@ -1201,7 +1201,7 @@
     "season": 2016,
     "age": "25.0",
     "squad": "38",
-    "foreigners": "16",
+    "foreigners": "17",
     "e_market": "\u20ac1.10m",
     "total_market": "\u20ac41.90m"
   },
@@ -1408,7 +1408,7 @@
     "season": 2017,
     "age": "24.1",
     "squad": "41",
-    "foreigners": "17",
+    "foreigners": "18",
     "e_market": "\u20ac1.20m",
     "total_market": "\u20ac49.25m"
   },
@@ -1606,7 +1606,7 @@
     "season": 2018,
     "age": "24.6",
     "squad": "38",
-    "foreigners": "18",
+    "foreigners": "19",
     "e_market": "\u20ac1.91m",
     "total_market": "\u20ac72.55m"
   },
@@ -1768,7 +1768,7 @@
     "season": 2019,
     "age": "25.6",
     "squad": "43",
-    "foreigners": "24",
+    "foreigners": "25",
     "e_market": "\u20ac1.93m",
     "total_market": "\u20ac82.95m"
   },
@@ -2047,7 +2047,7 @@
     "season": 2020,
     "age": "24.4",
     "squad": "49",
-    "foreigners": "17",
+    "foreigners": "18",
     "e_market": "\u20ac1.17m",
     "total_market": "\u20ac57.55m"
   },
@@ -2180,7 +2180,7 @@
   {
     "name": "Sheffield United",
     "season": 2021,
-    "age": "27.1",
+    "age": "27.2",
     "squad": "26",
     "foreigners": "12",
     "e_market": "\u20ac3.89m",
@@ -2198,7 +2198,7 @@
   {
     "name": "Stoke City",
     "season": 2021,
-    "age": "26.6",
+    "age": "26.7",
     "squad": "27",
     "foreigners": "14",
     "e_market": "\u20ac2.10m",
@@ -2207,7 +2207,7 @@
   {
     "name": "Nottingham Forest",
     "season": 2021,
-    "age": "25.5",
+    "age": "25.6",
     "squad": "26",
     "foreigners": "13",
     "e_market": "\u20ac2.16m",
@@ -2243,7 +2243,7 @@
   {
     "name": "Swansea City",
     "season": 2021,
-    "age": "25.2",
+    "age": "25.3",
     "squad": "22",
     "foreigners": "9",
     "e_market": "\u20ac1.76m",
@@ -2270,7 +2270,7 @@
   {
     "name": "Reading FC",
     "season": 2021,
-    "age": "25.9",
+    "age": "26.0",
     "squad": "26",
     "foreigners": "12",
     "e_market": "\u20ac1.44m",
@@ -2279,16 +2279,16 @@
   {
     "name": "Birmingham City",
     "season": 2021,
-    "age": "27.5",
-    "squad": "21",
+    "age": "27.1",
+    "squad": "22",
     "foreigners": "10",
-    "e_market": "\u20ac1.73m",
+    "e_market": "\u20ac1.65m",
     "total_market": "\u20ac36.30m"
   },
   {
     "name": "Preston North End",
     "season": 2021,
-    "age": "26.1",
+    "age": "26.2",
     "squad": "28",
     "foreigners": "15",
     "e_market": "\u20ac1.22m",
@@ -2297,9 +2297,9 @@
   {
     "name": "Bristol City",
     "season": 2021,
-    "age": "25.6",
+    "age": "25.7",
     "squad": "24",
-    "foreigners": "9",
+    "foreigners": "10",
     "e_market": "\u20ac1.40m",
     "total_market": "\u20ac33.60m"
   },
@@ -2848,7 +2848,7 @@
     "season": 2018,
     "age": "23.4",
     "squad": "43",
-    "foreigners": "9",
+    "foreigners": "10",
     "e_market": "\u20ac232Th.",
     "total_market": "\u20ac9.98m"
   },
@@ -3064,7 +3064,7 @@
     "season": 2019,
     "age": "24.0",
     "squad": "44",
-    "foreigners": "12",
+    "foreigners": "13",
     "e_market": "\u20ac247Th.",
     "total_market": "\u20ac10.85m"
   },
@@ -3100,7 +3100,7 @@
     "season": 2019,
     "age": "24.7",
     "squad": "41",
-    "foreigners": "16",
+    "foreigners": "17",
     "e_market": "\u20ac177Th.",
     "total_market": "\u20ac7.28m"
   },
@@ -3334,7 +3334,7 @@
     "season": 2020,
     "age": "23.5",
     "squad": "42",
-    "foreigners": "14",
+    "foreigners": "15",
     "e_market": "\u20ac193Th.",
     "total_market": "\u20ac8.10m"
   },
@@ -3494,7 +3494,7 @@
   {
     "name": "Charlton Athletic",
     "season": 2021,
-    "age": "26.1",
+    "age": "26.2",
     "squad": "29",
     "foreigners": "9",
     "e_market": "\u20ac359Th.",
@@ -3539,7 +3539,7 @@
   {
     "name": "Lincoln City",
     "season": 2021,
-    "age": "24.1",
+    "age": "24.2",
     "squad": "26",
     "foreigners": "13",
     "e_market": "\u20ac283Th.",
@@ -3557,7 +3557,7 @@
   {
     "name": "Burton Albion",
     "season": 2021,
-    "age": "25.0",
+    "age": "25.1",
     "squad": "29",
     "foreigners": "9",
     "e_market": "\u20ac197Th.",
@@ -3629,7 +3629,7 @@
   {
     "name": "Morecambe FC",
     "season": 2021,
-    "age": "26.1",
+    "age": "26.2",
     "squad": "25",
     "foreigners": "13",
     "e_market": "\u20ac151Th.",
@@ -3656,10 +3656,10 @@
   {
     "name": "Cambridge United",
     "season": 2021,
-    "age": "24.5",
-    "squad": "27",
-    "foreigners": "5",
-    "e_market": "\u20ac76Th.",
+    "age": "24.7",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": "\u20ac79Th.",
     "total_market": "\u20ac2.05m"
   },
   {
@@ -4485,9 +4485,9 @@
     "name": "Newport County",
     "season": 2019,
     "age": "23.7",
-    "squad": "40",
-    "foreigners": "20",
-    "e_market": "\u20ac48Th.",
+    "squad": "39",
+    "foreigners": "19",
+    "e_market": "\u20ac49Th.",
     "total_market": "\u20ac1.93m"
   },
   {
@@ -4790,7 +4790,7 @@
   {
     "name": "Tranmere Rovers",
     "season": 2021,
-    "age": "26.6",
+    "age": "26.7",
     "squad": "26",
     "foreigners": "7",
     "e_market": "\u20ac162Th.",
@@ -4817,7 +4817,7 @@
   {
     "name": "Oldham Athletic",
     "season": 2021,
-    "age": "25.3",
+    "age": "25.4",
     "squad": "29",
     "foreigners": "13",
     "e_market": "\u20ac119Th.",
@@ -4853,7 +4853,7 @@
   {
     "name": "Stevenage FC",
     "season": 2021,
-    "age": "27.2",
+    "age": "27.3",
     "squad": "26",
     "foreigners": "7",
     "e_market": "\u20ac113Th.",
@@ -4887,15 +4887,6 @@
     "total_market": "\u20ac2.63m"
   },
   {
-    "name": "Walsall FC",
-    "season": 2021,
-    "age": "25.6",
-    "squad": "25",
-    "foreigners": "9",
-    "e_market": "\u20ac103Th.",
-    "total_market": "\u20ac2.58m"
-  },
-  {
     "name": "Scunthorpe United",
     "season": 2021,
     "age": "23.4",
@@ -4907,7 +4898,7 @@
   {
     "name": "Forest Green Rovers",
     "season": 2021,
-    "age": "23.9",
+    "age": "24.0",
     "squad": "23",
     "foreigners": "8",
     "e_market": "\u20ac103Th.",
@@ -4948,6 +4939,15 @@
     "foreigners": "6",
     "e_market": "\u20ac82Th.",
     "total_market": "\u20ac1.88m"
+  },
+  {
+    "name": "Walsall FC",
+    "season": 2021,
+    "age": "25.1",
+    "squad": "24",
+    "foreigners": "8",
+    "e_market": "\u20ac77Th.",
+    "total_market": "\u20ac1.85m"
   },
   {
     "name": "Sutton United",
@@ -5949,7 +5949,7 @@
     "total_market": 0.0
   },
   {
-    "name": "King’s Lynn Town",
+    "name": "King's Lynn Town",
     "season": 2020,
     "age": "25.1",
     "squad": "39",
@@ -6192,7 +6192,7 @@
     "total_market": 0.0
   },
   {
-    "name": "King’s Lynn Town",
+    "name": "King's Lynn Town",
     "season": 2021,
     "age": "23.7",
     "squad": "27",
@@ -6230,9 +6230,954 @@
   {
     "name": "Weymouth FC",
     "season": 2021,
-    "age": "24.3",
-    "squad": "24",
+    "age": "24.2",
+    "squad": "25",
     "foreigners": "8",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Welling United",
+    "season": 2016,
+    "age": "23.0",
+    "squad": "31",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "season": 2016,
+    "age": "24.9",
+    "squad": "30",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bath City",
+    "season": 2016,
+    "age": "25.6",
+    "squad": "21",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dartford FC",
+    "season": 2016,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "10",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Havant &amp; Waterlooville FC",
+    "season": 2016,
+    "age": "29.2",
+    "squad": "26",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Concord Rangers",
+    "season": 2016,
+    "age": "25.0",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Billericay Town",
+    "season": 2016,
+    "age": "26.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dulwich Hamlet",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Maidstone United",
+    "season": 2016,
+    "age": "26.1",
+    "squad": "31",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Oxford City",
+    "season": 2016,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Ebbsfleet United",
+    "season": 2016,
+    "age": "26.5",
+    "squad": "25",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Tonbridge Angels",
+    "season": 2016,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Braintree Town",
+    "season": 2016,
+    "age": "24.5",
+    "squad": "23",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chippenham Town",
+    "season": 2016,
+    "age": "23.4",
+    "squad": "31",
+    "foreigners": "11",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chelmsford City",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dorking Wanderers",
+    "season": 2016,
+    "age": "28.1",
+    "squad": "36",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Eastbourne Borough",
+    "season": 2016,
+    "age": "24.0",
+    "squad": "24",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hampton &amp; Richmond Borough",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "28",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hungerford Town",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Slough Town",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "St Albans City",
+    "season": 2016,
+    "age": "24.4",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Welling United",
+    "season": 2017,
+    "age": "23.0",
+    "squad": "31",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "season": 2017,
+    "age": "24.9",
+    "squad": "30",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bath City",
+    "season": 2017,
+    "age": "25.6",
+    "squad": "21",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dartford FC",
+    "season": 2017,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "10",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Havant &amp; Waterlooville FC",
+    "season": 2017,
+    "age": "29.2",
+    "squad": "26",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Concord Rangers",
+    "season": 2017,
+    "age": "25.0",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Billericay Town",
+    "season": 2017,
+    "age": "26.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dulwich Hamlet",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Maidstone United",
+    "season": 2017,
+    "age": "26.1",
+    "squad": "31",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Oxford City",
+    "season": 2017,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Ebbsfleet United",
+    "season": 2017,
+    "age": "26.5",
+    "squad": "25",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Tonbridge Angels",
+    "season": 2017,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Braintree Town",
+    "season": 2017,
+    "age": "24.5",
+    "squad": "23",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chippenham Town",
+    "season": 2017,
+    "age": "23.4",
+    "squad": "31",
+    "foreigners": "11",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chelmsford City",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dorking Wanderers",
+    "season": 2017,
+    "age": "28.1",
+    "squad": "36",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Eastbourne Borough",
+    "season": 2017,
+    "age": "24.0",
+    "squad": "24",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hampton &amp; Richmond Borough",
+    "season": 2017,
+    "age": "26.6",
+    "squad": "28",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hungerford Town",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Slough Town",
+    "season": 2017,
+    "age": "26.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "St Albans City",
+    "season": 2017,
+    "age": "24.4",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Welling United",
+    "season": 2018,
+    "age": "23.0",
+    "squad": "31",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "season": 2018,
+    "age": "24.9",
+    "squad": "30",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bath City",
+    "season": 2018,
+    "age": "25.6",
+    "squad": "21",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dartford FC",
+    "season": 2018,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "10",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Havant &amp; Waterlooville FC",
+    "season": 2018,
+    "age": "29.2",
+    "squad": "26",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Concord Rangers",
+    "season": 2018,
+    "age": "25.0",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Billericay Town",
+    "season": 2018,
+    "age": "26.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dulwich Hamlet",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Maidstone United",
+    "season": 2018,
+    "age": "26.1",
+    "squad": "31",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Oxford City",
+    "season": 2018,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Ebbsfleet United",
+    "season": 2018,
+    "age": "26.5",
+    "squad": "25",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Tonbridge Angels",
+    "season": 2018,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Braintree Town",
+    "season": 2018,
+    "age": "24.5",
+    "squad": "23",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chippenham Town",
+    "season": 2018,
+    "age": "23.4",
+    "squad": "31",
+    "foreigners": "11",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chelmsford City",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dorking Wanderers",
+    "season": 2018,
+    "age": "28.1",
+    "squad": "36",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Eastbourne Borough",
+    "season": 2018,
+    "age": "24.0",
+    "squad": "24",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hampton &amp; Richmond Borough",
+    "season": 2018,
+    "age": "26.6",
+    "squad": "28",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hungerford Town",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Slough Town",
+    "season": 2018,
+    "age": "26.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "St Albans City",
+    "season": 2018,
+    "age": "24.4",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Welling United",
+    "season": 2019,
+    "age": "23.0",
+    "squad": "31",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "season": 2019,
+    "age": "24.9",
+    "squad": "30",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bath City",
+    "season": 2019,
+    "age": "25.6",
+    "squad": "21",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dartford FC",
+    "season": 2019,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "10",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Havant &amp; Waterlooville FC",
+    "season": 2019,
+    "age": "29.2",
+    "squad": "26",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Concord Rangers",
+    "season": 2019,
+    "age": "25.0",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Billericay Town",
+    "season": 2019,
+    "age": "26.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dulwich Hamlet",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Maidstone United",
+    "season": 2019,
+    "age": "26.1",
+    "squad": "31",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Oxford City",
+    "season": 2019,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Ebbsfleet United",
+    "season": 2019,
+    "age": "26.5",
+    "squad": "25",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Tonbridge Angels",
+    "season": 2019,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Braintree Town",
+    "season": 2019,
+    "age": "24.5",
+    "squad": "23",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chippenham Town",
+    "season": 2019,
+    "age": "23.4",
+    "squad": "31",
+    "foreigners": "11",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chelmsford City",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dorking Wanderers",
+    "season": 2019,
+    "age": "28.1",
+    "squad": "36",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Eastbourne Borough",
+    "season": 2019,
+    "age": "24.0",
+    "squad": "24",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hampton &amp; Richmond Borough",
+    "season": 2019,
+    "age": "26.6",
+    "squad": "28",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hungerford Town",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Slough Town",
+    "season": 2019,
+    "age": "26.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "St Albans City",
+    "season": 2019,
+    "age": "24.4",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Welling United",
+    "season": 2020,
+    "age": "23.0",
+    "squad": "31",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "season": 2020,
+    "age": "24.9",
+    "squad": "30",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bath City",
+    "season": 2020,
+    "age": "25.6",
+    "squad": "21",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dartford FC",
+    "season": 2020,
+    "age": "26.9",
+    "squad": "27",
+    "foreigners": "10",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Havant &amp; Waterlooville FC",
+    "season": 2020,
+    "age": "29.2",
+    "squad": "26",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Concord Rangers",
+    "season": 2020,
+    "age": "25.0",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Billericay Town",
+    "season": 2020,
+    "age": "26.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dulwich Hamlet",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Maidstone United",
+    "season": 2020,
+    "age": "26.1",
+    "squad": "31",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Oxford City",
+    "season": 2020,
+    "age": "25.3",
+    "squad": "33",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Ebbsfleet United",
+    "season": 2020,
+    "age": "26.5",
+    "squad": "25",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Tonbridge Angels",
+    "season": 2020,
+    "age": "25.6",
+    "squad": "22",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Braintree Town",
+    "season": 2020,
+    "age": "24.5",
+    "squad": "23",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chippenham Town",
+    "season": 2020,
+    "age": "23.4",
+    "squad": "31",
+    "foreigners": "11",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chelmsford City",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Dorking Wanderers",
+    "season": 2020,
+    "age": "28.1",
+    "squad": "36",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Eastbourne Borough",
+    "season": 2020,
+    "age": "24.0",
+    "squad": "24",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hampton &amp; Richmond Borough",
+    "season": 2020,
+    "age": "26.6",
+    "squad": "28",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hungerford Town",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Slough Town",
+    "season": 2020,
+    "age": "26.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "St Albans City",
+    "season": 2020,
+    "age": "24.4",
+    "squad": "27",
+    "foreigners": "6",
     "e_market": 0.0,
     "total_market": 0.0
   },
@@ -6356,7 +7301,7 @@
   {
     "name": "Chippenham Town",
     "season": 2021,
-    "age": "23.3",
+    "age": "23.4",
     "squad": "31",
     "foreigners": "11",
     "e_market": 0.0,
@@ -6422,6 +7367,996 @@
     "age": "24.4",
     "squad": "27",
     "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hereford FC",
+    "season": 2016,
+    "age": "26.0",
+    "squad": "25",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gloucester City",
+    "season": 2016,
+    "age": "26.2",
+    "squad": "21",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Darlington FC",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "29",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kidderminster Harriers",
+    "season": 2016,
+    "age": "26.7",
+    "squad": "22",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Fylde",
+    "season": 2016,
+    "age": "27.0",
+    "squad": "29",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Telford United",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "24",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Boston United",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Blyth Spartans",
+    "season": 2016,
+    "age": "26.2",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Farsley Celtic",
+    "season": 2016,
+    "age": "26.4",
+    "squad": "29",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Southport FC",
+    "season": 2016,
+    "age": "24.5",
+    "squad": "19",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Brackley Town",
+    "season": 2016,
+    "age": "27.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bradford (Park Avenue)",
+    "season": 2016,
+    "age": "27.0",
+    "squad": "25",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chorley FC",
+    "season": 2016,
+    "age": "24.9",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "York City",
+    "season": 2016,
+    "age": "25.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Guiseley AFC",
+    "season": 2016,
+    "age": "23.3",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Alfreton Town",
+    "season": 2016,
+    "age": "26.6",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chester FC",
+    "season": 2016,
+    "age": "25.6",
+    "squad": "23",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Curzon Ashton",
+    "season": 2016,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gateshead FC",
+    "season": 2016,
+    "age": "25.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kettering Town",
+    "season": 2016,
+    "age": "24.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Leamington FC",
+    "season": 2016,
+    "age": "28.6",
+    "squad": "23",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Spennymoor Town",
+    "season": 2016,
+    "age": "29.4",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hereford FC",
+    "season": 2017,
+    "age": "26.0",
+    "squad": "25",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gloucester City",
+    "season": 2017,
+    "age": "26.2",
+    "squad": "21",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Darlington FC",
+    "season": 2017,
+    "age": "26.6",
+    "squad": "29",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kidderminster Harriers",
+    "season": 2017,
+    "age": "26.7",
+    "squad": "22",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Fylde",
+    "season": 2017,
+    "age": "27.0",
+    "squad": "29",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Telford United",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "24",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Boston United",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Blyth Spartans",
+    "season": 2017,
+    "age": "26.2",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Farsley Celtic",
+    "season": 2017,
+    "age": "26.4",
+    "squad": "29",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Southport FC",
+    "season": 2017,
+    "age": "24.5",
+    "squad": "19",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Brackley Town",
+    "season": 2017,
+    "age": "27.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bradford (Park Avenue)",
+    "season": 2017,
+    "age": "27.0",
+    "squad": "25",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chorley FC",
+    "season": 2017,
+    "age": "24.9",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "York City",
+    "season": 2017,
+    "age": "25.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Guiseley AFC",
+    "season": 2017,
+    "age": "23.3",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Alfreton Town",
+    "season": 2017,
+    "age": "26.6",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chester FC",
+    "season": 2017,
+    "age": "25.6",
+    "squad": "23",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Curzon Ashton",
+    "season": 2017,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gateshead FC",
+    "season": 2017,
+    "age": "25.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kettering Town",
+    "season": 2017,
+    "age": "24.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Leamington FC",
+    "season": 2017,
+    "age": "28.6",
+    "squad": "23",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Spennymoor Town",
+    "season": 2017,
+    "age": "29.4",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hereford FC",
+    "season": 2018,
+    "age": "26.0",
+    "squad": "25",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gloucester City",
+    "season": 2018,
+    "age": "26.2",
+    "squad": "21",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Darlington FC",
+    "season": 2018,
+    "age": "26.6",
+    "squad": "29",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kidderminster Harriers",
+    "season": 2018,
+    "age": "26.7",
+    "squad": "22",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Fylde",
+    "season": 2018,
+    "age": "27.0",
+    "squad": "29",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Telford United",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "24",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Boston United",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Blyth Spartans",
+    "season": 2018,
+    "age": "26.2",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Farsley Celtic",
+    "season": 2018,
+    "age": "26.4",
+    "squad": "29",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Southport FC",
+    "season": 2018,
+    "age": "24.5",
+    "squad": "19",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Brackley Town",
+    "season": 2018,
+    "age": "27.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bradford (Park Avenue)",
+    "season": 2018,
+    "age": "27.0",
+    "squad": "25",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chorley FC",
+    "season": 2018,
+    "age": "24.9",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "York City",
+    "season": 2018,
+    "age": "25.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Guiseley AFC",
+    "season": 2018,
+    "age": "23.3",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Alfreton Town",
+    "season": 2018,
+    "age": "26.6",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chester FC",
+    "season": 2018,
+    "age": "25.6",
+    "squad": "23",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Curzon Ashton",
+    "season": 2018,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gateshead FC",
+    "season": 2018,
+    "age": "25.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kettering Town",
+    "season": 2018,
+    "age": "24.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Leamington FC",
+    "season": 2018,
+    "age": "28.6",
+    "squad": "23",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Spennymoor Town",
+    "season": 2018,
+    "age": "29.4",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hereford FC",
+    "season": 2019,
+    "age": "26.0",
+    "squad": "25",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gloucester City",
+    "season": 2019,
+    "age": "26.2",
+    "squad": "21",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Darlington FC",
+    "season": 2019,
+    "age": "26.6",
+    "squad": "29",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kidderminster Harriers",
+    "season": 2019,
+    "age": "26.7",
+    "squad": "22",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Fylde",
+    "season": 2019,
+    "age": "27.0",
+    "squad": "29",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Telford United",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "24",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Boston United",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Blyth Spartans",
+    "season": 2019,
+    "age": "26.2",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Farsley Celtic",
+    "season": 2019,
+    "age": "26.4",
+    "squad": "29",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Southport FC",
+    "season": 2019,
+    "age": "24.5",
+    "squad": "19",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Brackley Town",
+    "season": 2019,
+    "age": "27.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bradford (Park Avenue)",
+    "season": 2019,
+    "age": "27.0",
+    "squad": "25",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chorley FC",
+    "season": 2019,
+    "age": "24.9",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "York City",
+    "season": 2019,
+    "age": "25.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Guiseley AFC",
+    "season": 2019,
+    "age": "23.3",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Alfreton Town",
+    "season": 2019,
+    "age": "26.6",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chester FC",
+    "season": 2019,
+    "age": "25.6",
+    "squad": "23",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Curzon Ashton",
+    "season": 2019,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gateshead FC",
+    "season": 2019,
+    "age": "25.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kettering Town",
+    "season": 2019,
+    "age": "24.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Leamington FC",
+    "season": 2019,
+    "age": "28.6",
+    "squad": "23",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Spennymoor Town",
+    "season": 2019,
+    "age": "29.4",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Hereford FC",
+    "season": 2020,
+    "age": "26.0",
+    "squad": "25",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gloucester City",
+    "season": 2020,
+    "age": "26.2",
+    "squad": "21",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Darlington FC",
+    "season": 2020,
+    "age": "26.6",
+    "squad": "29",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kidderminster Harriers",
+    "season": 2020,
+    "age": "26.7",
+    "squad": "22",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Fylde",
+    "season": 2020,
+    "age": "27.0",
+    "squad": "29",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "AFC Telford United",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "24",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Boston United",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "28",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Blyth Spartans",
+    "season": 2020,
+    "age": "26.2",
+    "squad": "26",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Farsley Celtic",
+    "season": 2020,
+    "age": "26.4",
+    "squad": "29",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Southport FC",
+    "season": 2020,
+    "age": "24.5",
+    "squad": "19",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Brackley Town",
+    "season": 2020,
+    "age": "27.6",
+    "squad": "24",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Bradford (Park Avenue)",
+    "season": 2020,
+    "age": "27.0",
+    "squad": "25",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chorley FC",
+    "season": 2020,
+    "age": "24.9",
+    "squad": "26",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "York City",
+    "season": 2020,
+    "age": "25.2",
+    "squad": "27",
+    "foreigners": "6",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Guiseley AFC",
+    "season": 2020,
+    "age": "23.3",
+    "squad": "23",
+    "foreigners": "2",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Alfreton Town",
+    "season": 2020,
+    "age": "26.6",
+    "squad": "23",
+    "foreigners": "4",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Chester FC",
+    "season": 2020,
+    "age": "25.6",
+    "squad": "23",
+    "foreigners": "7",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Curzon Ashton",
+    "season": 2020,
+    "age": "26.8",
+    "squad": "23",
+    "foreigners": "5",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Gateshead FC",
+    "season": 2020,
+    "age": "25.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Kettering Town",
+    "season": 2020,
+    "age": "24.1",
+    "squad": "23",
+    "foreigners": "3",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Leamington FC",
+    "season": 2020,
+    "age": "28.6",
+    "squad": "23",
+    "foreigners": "1",
+    "e_market": 0.0,
+    "total_market": 0.0
+  },
+  {
+    "name": "Spennymoor Town",
+    "season": 2020,
+    "age": "29.4",
+    "squad": "23",
+    "foreigners": "4",
     "e_market": 0.0,
     "total_market": 0.0
   },
@@ -6500,7 +8435,7 @@
   {
     "name": "Farsley Celtic",
     "season": 2021,
-    "age": "26.3",
+    "age": "26.4",
     "squad": "29",
     "foreigners": "2",
     "e_market": 0.0,
@@ -6590,7 +8525,7 @@
   {
     "name": "Gateshead FC",
     "season": 2021,
-    "age": "25.0",
+    "age": "25.1",
     "squad": "23",
     "foreigners": "3",
     "e_market": 0.0,

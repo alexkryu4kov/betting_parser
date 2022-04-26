@@ -59,6 +59,5 @@ for team, index in indices.items():
         except Exception:
             continue
 
-print(managers)
 with open(f'../data/{COUNTRY}/managers.json', 'w') as f:
     json.dump([asdict(manager) for manager in managers], f)
