@@ -11,3 +11,5 @@ new_league.drop('year', axis=1, inplace=True)
 full = pd.concat([all_england, new_league])
 
 full.to_csv(f'../all_england_v2.{CURRENT_VERSION+1}.csv', index=False)
+
+print(f'Saved to ../all_england_v2.{CURRENT_VERSION+1}.csv')

@@ -1,6 +1,8 @@
 import importlib
 from copy import deepcopy
 
+import difflib
+
 from config import COUNTRY
 
 matches = importlib.import_module(f'data.{COUNTRY}.matches')
@@ -32,6 +34,10 @@ class StadiumsMatcher:
                 self.matched_stadiums.append(new_stadium)
 
     def check_stadiums_match(self, teams):
+        stadium_names = list(set([stadium['name'] for stadium in self.matched_stadiums]))
         for team in teams:
-            if team not in [stadium['name'] for stadium in self.matched_stadiums]:
-                print(team)
+            if team not in stadium_names:
+                try:
+                    print(f"'{','.join(difflib.get_close_matches(team, stadium_names))}': '{team}',")
+                except Exception:
+                    print(team)

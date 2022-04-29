@@ -1,5 +1,7 @@
 import importlib
 
+import difflib
+
 from config import COUNTRY
 
 matches = importlib.import_module(f'data.{COUNTRY}.matches')
@@ -28,4 +30,7 @@ class TeamsMatcher:
         self.teams = list(set([*home_teams, *away_teams]))
         for team in self.teams:
             if team not in managers_teams:
-                print(team)
+                try:
+                    print(f"'{team}': '{','.join(difflib.get_close_matches(team, managers_teams))}',")
+                except Exception:
+                    print(team)

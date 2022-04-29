@@ -24,7 +24,7 @@ class Info:
 
 teams = []
 for league in leagues:
-    for id in range(2016, 2022):
+    for id in range(2020, 2021):
         url = f'https://www.transfermarkt.com/premier-league/startseite/wettbewerb/{league}/plus/?saison_id={id}'
         page = requests.get(url, headers={'User-Agent': 'Custom'})
 
@@ -62,5 +62,9 @@ for league in leagues:
             )
 
 
+with open(f'../data/{COUNTRY}/teams.json', 'r') as f:
+    teams_data = json.load(f)
+    teams_data.extend([asdict(team) for team in teams])
+
 with open(f'../data/{COUNTRY}/teams.json', 'w') as f:
-    json.dump([asdict(team) for team in teams], f)
+    json.dump(teams_data, f)
