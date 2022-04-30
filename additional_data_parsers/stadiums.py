@@ -44,6 +44,7 @@ for league in matcher:
                     capacity=capacity
                 )
             )
+            print(f'{team_name}: {k} Done!')
 
 with open(f'../data/{COUNTRY}/stadiums.json', 'w') as f:
     json.dump([asdict(stadium) for stadium in stadiums], f)

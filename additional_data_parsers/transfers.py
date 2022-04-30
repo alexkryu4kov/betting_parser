@@ -34,7 +34,6 @@ for team, index in indices.items():
         for part_of_time in ['s', 'w']:
             link = url(id=indices.get(team), season=s, part_of_season=part_of_time)
             page = requests.get(link, headers={'User-Agent': 'Custom'})
-            print(link)
             soup = BeautifulSoup(page.text, 'html.parser')
             departures_table = soup.find('div', {'id': 'yw2'}).find(class_='items')
             try:
@@ -73,6 +72,7 @@ for team, index in indices.items():
                     arrivals_market_value=arrivals_value,
                 )
             )
+        print(f'{team} {s} Done!')
 
 with open(f'../data/{COUNTRY}/transfers.json', 'w') as f:
     json.dump([asdict(transfer) for transfer in transfers], f)

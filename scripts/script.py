@@ -38,7 +38,7 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'italy-serie-a'
+league_name = 'italy-lega-pro-group-a'
 with open(f'../{league_name}_links.txt', 'r') as f:
     links = f.read()
 

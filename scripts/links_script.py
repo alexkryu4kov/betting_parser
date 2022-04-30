@@ -13,10 +13,10 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'spain/segunda-division-b-group-5'
+league_name = 'italy/lega-pro-group-c'
 #urls = [f'{league_name}-201{i}-201{i+1}' for i in range(6, 9)]
 #urls.extend([f'{league_name}-2019-2020', f'{league_name}-2020-2021', league_name])
-urls = [f'{league_name}-2020-2021']
+urls = [f'{league_name}-2016-2017']
 
 for url in urls:
     full_url = f'https://www.oddsportal.com/soccer/{url}/results'

@@ -24,7 +24,7 @@ class Info:
 
 teams = []
 for league in leagues:
-    for id in range(2020, 2021):
+    for id in range(2016, 2022):
         url = f'https://www.transfermarkt.com/premier-league/startseite/wettbewerb/{league}/plus/?saison_id={id}'
         page = requests.get(url, headers={'User-Agent': 'Custom'})
 
