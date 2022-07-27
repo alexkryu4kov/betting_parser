@@ -6,8 +6,9 @@ from pipeline.utils import create_season_year, extract_season_year
 
 
 class FixSeasonAndLeaguesStep(AbstractStep):
-    
-    def run(self, dataset):
+
+    @classmethod
+    def run(cls, dataset):
         weekdays = []
         levels = []
         leagues = []

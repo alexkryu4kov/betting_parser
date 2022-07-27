@@ -8,8 +8,9 @@ with open("../../data/world/teams_detailed.json") as f:
 
 
 class AddDetailedTeamsStep(AbstractStep):
-    
-    def run(self, dataset):
+
+    @classmethod
+    def run(cls, dataset):
         home_goalkeepers_average_age = []
         home_defenders_average_age = []
         home_midfields_average_age = []

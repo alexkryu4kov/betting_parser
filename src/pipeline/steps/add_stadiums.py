@@ -9,7 +9,8 @@ with open("../../data/world/stadiums.json") as f:
 
 class AddStadiumsStep(AbstractStep):
 
-    def run(self, dataset):
+    @classmethod
+    def run(cls, dataset):
         home_stadiums = []
         home_cities = []
         away_cities = []

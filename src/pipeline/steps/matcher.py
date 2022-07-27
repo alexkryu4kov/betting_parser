@@ -13,7 +13,8 @@ with open('../../data/world/stadiums.json', 'r') as f:
 
 class MatcherStep(AbstractStep):
 
-    def run(self, dataset):
+    @classmethod
+    def run(cls, dataset):
 
         teams_matcher = TeamsMatcher(dataset)
         teams_matcher.match_teams()

@@ -54,8 +54,9 @@ def extract_manager(country, team, current_date: datetime):
 
 
 class AddManagersStep(AbstractStep):
-    
-    def run(self, dataset):
+
+    @classmethod
+    def run(cls, dataset):
         home_names = []
         away_names = []
         home_days = []

@@ -13,12 +13,12 @@ from pipeline.steps.matcher import MatcherStep
 
 dataset = pd.read_csv(f'../../data/{LEAGUE_NAME}.csv')
 
-dataset = MatcherStep().run(dataset)
-dataset = FixSeasonAndLeaguesStep().run(dataset)
-dataset = AddTeamsStep().run(dataset)
-dataset = AddManagersStep().run(dataset)
-dataset = AddStadiumsStep().run(dataset)
-dataset = AddDetailedTeamsStep().run(dataset)
-dataset = AddTransfersStep().run(dataset)
+dataset = MatcherStep.run(dataset)
+dataset = FixSeasonAndLeaguesStep.run(dataset)
+dataset = AddTeamsStep.run(dataset)
+dataset = AddManagersStep.run(dataset)
+dataset = AddStadiumsStep.run(dataset)
+dataset = AddDetailedTeamsStep.run(dataset)
+dataset = AddTransfersStep.run(dataset)
 
 dataset.to_csv(f'../../data/{LEAGUE_NAME}_final.csv', index=False)

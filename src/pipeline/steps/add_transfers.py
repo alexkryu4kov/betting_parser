@@ -9,8 +9,9 @@ with open("../../data/world/transfers.json") as f:
 
 
 class AddTransfersStep(AbstractStep):
-    
-    def run(self, dataset):
+
+    @classmethod
+    def run(cls, dataset):
         home_winter_departures_age = []
         home_winter_departures_sum = []
         home_winter_departures_market_value = []
