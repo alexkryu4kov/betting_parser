@@ -2,9 +2,9 @@ from selenium import webdriver
 import asyncio
 from concurrent.futures.thread import ThreadPoolExecutor
 
-from main_data_parsers.parser import Parser
+from src.main_data_parsers.matches import Parser
 
-GECKODRIVER_PATH = '../geckodriver'
+GECKODRIVER_PATH = '../../geckodriver'
 
 executor = ThreadPoolExecutor(10)
 
@@ -38,7 +38,7 @@ for key in headers:
     webdriver.DesiredCapabilities.FIREFOX['phantomjs.page.customHeaders.{}'.format(key)] = headers[key]
 
 
-league_name = 'italy-lega-pro-group-a'
+league_name = 'first_may'
 with open(f'../{league_name}_links.txt', 'r') as f:
     links = f.read()
 

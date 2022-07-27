@@ -4,7 +4,7 @@ from dataclasses import asdict
 
 from bs4 import BeautifulSoup
 
-from main_data_parsers.entity import MatchInfo, ResultMatchInfo
+from src.main_data_parsers.entity import MatchInfo, ResultMatchInfo
 
 
 months = {
