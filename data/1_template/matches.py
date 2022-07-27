@@ -1,7 +1,0 @@
-matches = {
-
-}
-
-stadium_matches = {
-
-}
